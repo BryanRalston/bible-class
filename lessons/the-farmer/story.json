@@ -1,0 +1,65 @@
+{
+  "id": "the-farmer",
+  "month": 7,
+  "weekOfMonth": 1,
+  "title": "The Story of the Farmer",
+  "reference": "Matthew 13:1-23",
+  "bigIdea": "When we listen to God's word and let it grow in us, it grows into something wonderful.",
+  "memoryVerse": {
+    "text": "The good soil stands for the people who hear God's word and let it grow.",
+    "reference": "based on Matthew 13:23 (NIrV)"
+  },
+  "moral": {
+    "lesson": "Jesus said the seeds are like God's word, and our hearts are like the soil. Some people hear about God but quickly forget, or let other things crowd it out. But when we really listen, remember, and let God's word sink in deep, it grows into something good and beautiful in our lives — just like the seeds in the good soil.",
+    "application": "You can be the good soil! Listen carefully to God's word, think about it, and let it grow in your heart a little more every day."
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "character": "the farmer: a friendly man with a short brown beard wearing a tan robe and a simple cloth head covering, carrying a small bag of seeds. Keep him looking the same in every picture.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "A friendly farmer walks across his brown field scattering handfuls of seeds from a bag. The seeds fly out in an arc. Bright blue sky, gentle hills, a sunny morning.",
+      "text": [
+        "One day Jesus sat by a lake, and so many people came to listen that He told them a story.",
+        "“A farmer went out to plant seeds in his field,” Jesus said.",
+        "The farmer reached into his bag and scattered the seeds all around as he walked. The seeds landed in all different places."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "A close view of a hard dirt path where seeds have landed on top, and several little birds are swooping down and pecking up the seeds. The farmer watches from the side. Sunny day.",
+      "text": [
+        "Some of the seeds fell on the hard path where everyone walked.",
+        "The ground was too hard, so the seeds just sat right on top.",
+        "Then the birds swooped down and ate them all up! Those seeds never had a chance to grow."
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "Rocky ground with a few small green sprouts that are wilting and turning yellow under a hot bright sun. The little plants are drooping because they have no deep roots. Dry, rocky soil.",
+      "text": [
+        "Other seeds fell on rocky ground where there was only a little bit of dirt.",
+        "They sprang up fast! But the roots couldn't grow down deep through the rocks.",
+        "When the hot sun came out, the little plants dried up and wilted away, because they had no strong roots."
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "Small green plants being crowded and tangled by tall prickly thorny weeds that are choking them. The good little plants are squished and hidden among the big weeds.",
+      "text": [
+        "Other seeds fell among the thorns and weeds.",
+        "The seeds started to grow, but the prickly weeds grew up faster and bigger all around them.",
+        "The weeds crowded the little plants so much that there was no room left for them to grow."
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "The smiling farmer stands proudly in a field of tall, healthy golden wheat and green leafy plants full of grain. A big beautiful harvest under a bright happy sky.",
+      "text": [
+        "But some of the seeds fell on good, soft soil.",
+        "Those seeds grew down deep, became strong and healthy, and made a harvest bigger than anyone imagined!",
+        "Jesus said our hearts can be like that good soil. When we really listen to God and let His word grow, it grows into something wonderful."
+      ]
+    }
+  ]
+}

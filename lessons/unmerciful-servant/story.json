@@ -1,0 +1,65 @@
+{
+  "id": "unmerciful-servant",
+  "month": 7,
+  "weekOfMonth": 3,
+  "title": "The Servant Who Had No Mercy",
+  "reference": "Matthew 18:21-35",
+  "bigIdea": "God forgives us so much — He wants us to forgive others too.",
+  "memoryVerse": {
+    "text": "Forgive each other, just as God forgave you.",
+    "reference": "based on Matthew 18:33 (NIrV)"
+  },
+  "moral": {
+    "lesson": "The king forgave the servant a huge debt he could never repay — but then that same servant refused to forgive his friend a tiny one. Jesus told this story to show us something important: God forgives us for so many things, so He wants us to forgive other people too, even when it's hard.",
+    "application": "When someone hurts you or says they're sorry, you can choose to forgive them — just like God forgives you, again and again. Forgiving sets your heart free."
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "character": "the king: a kind man with a crown and a royal red and gold robe; and a servant in a plain brown tunic. Keep the king and the servant looking the same in every picture.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "Peter, a friendly fisherman with a beard, is talking with Jesus who has brown hair and a beard in a cream robe. Peter looks curious and is asking a question. Calm, sunny outdoor scene.",
+      "text": [
+        "One day Jesus' friend Peter had a question. “Jesus,” he asked, “how many times should I forgive someone who is unkind to me? Seven times?”",
+        "Peter thought seven times sounded like a lot! But Jesus said, “Not seven times — many, many more than that!”",
+        "Then Jesus told a story to help Peter understand."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "A king on a throne kindly forgiving a servant who is kneeling and bowing low with his hands together, begging. A huge pile of gold sits nearby. The king reaches out with a gentle, forgiving gesture. Grand throne room.",
+      "text": [
+        "There was a servant who owed the king a HUGE amount of money — more than he could ever, ever pay back.",
+        "The servant fell down on his knees and begged, “Please, be patient with me!”",
+        "The king felt sorry for him. “I forgive your whole debt,” the king said kindly. Just like that, the servant didn't owe a single coin. He was free!"
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "The same servant outside grabbing another man (his friend) roughly by the collar, looking angry, while the friend looks frightened. A small coin pouch is nearby. Tense street scene.",
+      "text": [
+        "But on his way out, that same servant met a friend who owed him just a tiny bit of money.",
+        "Instead of being kind, the servant grabbed his friend and shouted, “Pay me back right now!”",
+        "His friend dropped to his knees. “Please, be patient with me!” he begged — the very same words the servant had used with the king. But the servant would not listen."
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "The angry servant pointing toward a small jail while two guards lead away the frightened friend. The servant has his arms crossed and looks hard-hearted. Gloomy scene.",
+      "text": [
+        "The servant refused to forgive his friend even a little bit.",
+        "He had his friend thrown into jail until every last coin could be paid back.",
+        "How sad! The servant had just been forgiven so much, but he would not share even a little of that kindness."
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "The king back on his throne looking serious and disappointed, speaking firmly to the servant who now looks ashamed and sorry, head down. Grand throne room, serious mood.",
+      "text": [
+        "When the king heard what had happened, he called the servant back.",
+        "“I forgave you everything when you begged me,” the king said. “Shouldn't you have forgiven your friend the same way?”",
+        "God forgives us for so much. He wants us to forgive other people too."
+      ]
+    }
+  ]
+}

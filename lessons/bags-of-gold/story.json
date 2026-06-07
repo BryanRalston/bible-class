@@ -1,0 +1,65 @@
+{
+  "id": "bags-of-gold",
+  "month": 7,
+  "weekOfMonth": 2,
+  "title": "The Parable of the Bags of Gold",
+  "reference": "Matthew 25:14-30",
+  "bigIdea": "God gives each of us special gifts — He wants us to use them, not hide them.",
+  "memoryVerse": {
+    "text": "Well done, good and faithful servant!",
+    "reference": "based on Matthew 25:21 (NIrV)"
+  },
+  "moral": {
+    "lesson": "The bags of gold are like the special gifts and talents God gives to every person. God is happy when we use what He gives us to do good things — even if we start small. The servant who hid his gold wasn't punished for losing it; he was sad because he was too afraid to even try.",
+    "application": "God has given you special gifts — things you are good at and ways you can help others. Use them, share them, and don't be afraid to try. That makes God smile!"
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "character": "the master: a kind well-dressed man with a short dark beard in a fine purple and gold robe; and his three servants in simple tunics. Keep the master looking the same in every picture.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "A kind well-dressed master with a small suitcase is handing out bags of gold coins to three servants standing in a row: one gets five bags, one gets two bags, one gets a single bag. Warm indoor home scene.",
+      "text": [
+        "Jesus told a story about a master who was going away on a long journey.",
+        "Before he left, he trusted his servants to take care of his money. He gave each one bags of gold to look after.",
+        "He gave five bags to the first servant, two bags to the second, and one bag to the third. Then he set off on his trip."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "The first servant happily working hard at a busy market stall, trading goods and earning more bags of gold. He looks cheerful and busy. Sunny marketplace.",
+      "text": [
+        "The servant with five bags got right to work. He traded and worked hard, and earned five more bags of gold!",
+        "The servant with two bags worked hard too, and earned two more.",
+        "Both of them were happy to use what the master had trusted them with."
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "The third servant nervously digging a hole in the ground at night and hiding his single bag of gold in the dirt, looking worried and afraid. Dark, lonely scene with a small lantern.",
+      "text": [
+        "But the servant with one bag was afraid. “What if I lose it?” he worried.",
+        "So instead of using his gold, he dug a deep hole in the ground.",
+        "He buried his bag of gold in the dirt and did nothing with it at all."
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "The master has returned and is smiling proudly at the first two servants who proudly show him their many bags of gold piled up. The master gives a happy thumbs up. Warm, joyful scene.",
+      "text": [
+        "After a long time, the master came home and asked his servants what they had done.",
+        "The first two servants showed him all the gold they had earned by working hard.",
+        "The master was so pleased! “Well done, good and faithful servants!” he said. “You can be trusted. Let's celebrate together!”"
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "The third servant sadly holding out one dirty bag of gold to the master, who looks disappointed and a little sad. The hidden bag is covered in dirt. Quiet, somber scene.",
+      "text": [
+        "Then the last servant brought out the one dusty bag he had buried in the ground. “I was too afraid to use it,” he said.",
+        "The master was sad. “You didn't even try,” he told him. “I would have been happy with whatever you did.”",
+        "God gives each of us special gifts. He wants us to use them for good — not hide them away."
+      ]
+    }
+  ]
+}

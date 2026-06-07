@@ -1,0 +1,65 @@
+{
+  "id": "hidden-treasure-pearl",
+  "month": 6,
+  "weekOfMonth": 4,
+  "title": "The Hidden Treasure and the Pearl",
+  "reference": "Matthew 13:44-46 (with Matthew 4:18-22)",
+  "bigIdea": "Knowing Jesus is the greatest treasure — worth more than anything else.",
+  "memoryVerse": {
+    "text": "God's kingdom is like treasure hidden in a field.",
+    "reference": "based on Matthew 13:44 (NIrV)"
+  },
+  "moral": {
+    "lesson": "The hidden treasure and the perfect pearl both stand for God's kingdom — being close to Jesus and part of God's family. It is worth more than money, toys, or anything else in the whole world. That's why the men in the story were so glad to give up everything to have it.",
+    "application": "Nothing you could ever own is as wonderful as knowing Jesus. He is the greatest treasure of all — and He is a treasure that anyone can have!"
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "character": "Bible-times people with warm friendly faces in simple robes and head coverings; Jesus has brown hair and a short beard in a cream and blue robe. Keep the art style and color palette exactly the same in every picture.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "Jesus stands at the edge of a calm blue lake calling two fishermen who are in a small boat with nets full of fish. The fishermen look up with happy, eager faces. Bright sunny shore.",
+      "text": [
+        "One day Jesus walked beside a lake. He saw some fishermen working hard with their nets and said, “Come, follow me!”",
+        "Right away, they left their nets and their boats behind to go with Jesus.",
+        "They knew that being with Jesus was worth more than their boats, their fish, or anything else. Later, Jesus told two short stories about why."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "A man digging in a green field with a shovel has just uncovered an old wooden treasure chest full of glowing gold coins and jewels. His eyes are wide with joy and surprise.",
+      "text": [
+        "“God's kingdom,” Jesus said, “is like a treasure hidden in a field.”",
+        "One day a man was walking through a field, and suddenly his shovel hit something hard. He had found a chest full of treasure!",
+        "He could hardly believe it. His heart was filled with joy."
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "The same happy man at a market joyfully trading away all his belongings, pots, tools and a goat, to a seller. He is smiling, glad to give it all up. Sunny village marketplace.",
+      "text": [
+        "The man was so happy about the treasure that he went home and sold everything he owned.",
+        "He gladly gave up his tools, his pots, even his animals — and he wasn't sad at all!",
+        "With the money, he bought that whole field, so the wonderful treasure would be his forever."
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "A merchant in fine robes at a market stall holding up one perfect, glowing white pearl between his fingers, looking at it with amazement. Other smaller pearls sit on the table. Warm market light.",
+      "text": [
+        "Then Jesus told another story. There was a merchant who traveled everywhere searching for beautiful pearls.",
+        "He had seen many pearls before. But one day he found the most beautiful pearl he had ever seen.",
+        "It was perfect — more wonderful than all the others!"
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "The merchant joyfully holding the single beautiful pearl close, having given away everything else. Bright, happy, glowing scene full of joy.",
+      "text": [
+        "The merchant wanted that one perfect pearl more than anything. So he sold everything he owned to buy it.",
+        "To him, that one pearl was worth more than all his other things put together.",
+        "Jesus is like that hidden treasure and that perfect pearl. Knowing Him is worth more than anything in the whole world!"
+      ]
+    }
+  ]
+}

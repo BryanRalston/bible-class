@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kids Bible Class — Lessons</title>
+<style>
+  :root { --green:#2e6f4e; --ink:#20302a; --bg:#eef3ee; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; font-family: "Segoe UI", system-ui, Arial, sans-serif; color: var(--ink);
+    background: radial-gradient(circle at 50% -10%, #ffffff 0%, var(--bg) 60%);
+    min-height: 100vh;
+  }
+  header { text-align: center; padding: 48px 20px 12px; }
+  header .kicker { color: var(--green); letter-spacing: 2px; text-transform: uppercase; font-size: 14px; font-weight: 700; }
+  header h1 { font-size: clamp(28px, 5vw, 44px); margin: 8px 0 6px; }
+  header p { color: #557; max-width: 620px; margin: 0 auto; font-size: 17px; line-height: 1.5; }
+  main { max-width: 1100px; margin: 0 auto; padding: 24px 20px 64px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
+  .card {
+    background: #fff; border: 1px solid #e3e9e3; border-radius: 14px; padding: 22px 22px 20px;
+    box-shadow: 0 4px 18px rgba(20,40,30,0.06); display: flex; flex-direction: column;
+  }
+  .card-week { color: var(--green); font-weight: 700; font-size: 13px; text-transform: uppercase; letter-spacing: 1px; }
+  .card h2 { font-size: 21px; margin: 8px 0 4px; line-height: 1.25; }
+  .card .ref { color: #678; font-size: 14px; margin-bottom: 10px; }
+  .card .idea { color: #333; font-size: 15px; line-height: 1.5; margin: 0 0 18px; flex: 1; }
+  .actions { display: flex; gap: 10px; }
+  .btn {
+    flex: 1; text-align: center; text-decoration: none; padding: 10px 14px; border-radius: 9px;
+    font-weight: 600; font-size: 15px; border: 1.5px solid var(--green); color: var(--green); background: #fff;
+    transition: all .15s;
+  }
+  .btn:hover { background: #eef6f0; }
+  .btn-primary { background: var(--green); color: #fff; }
+  .btn-primary:hover { background: #245c40; }
+  footer { text-align: center; color: #8a978f; font-size: 13px; padding: 0 20px 40px; }
+</style>
+</head>
+<body>
+  <header>
+    <div class="kicker">Kids Bible Class</div>
+    <h1>Bible Story Lessons</h1>
+    <p>Illustrated story lessons for our kids. Tap <strong>View lesson</strong> to read through the pictures and narration in your browser, or <strong>PDF</strong> to print or project it.</p>
+  </header>
+  <main>
+    <div class="grid">
+
+      <article class="card">
+        <div class="card-week">May · Week 5</div>
+        <h2>The Story of the Lost Sheep</h2>
+        <div class="ref">Luke 15:1-7</div>
+        <p class="idea">God cares about every single one of us.</p>
+        <div class="actions">
+          <a class="btn btn-primary" href="lessons/lost-sheep/05-W5_lost-sheep.html">View&nbsp;lesson</a>
+          <a class="btn" href="lessons/lost-sheep/05-W5_lost-sheep.pdf">PDF</a>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-week">Jun · Week 3</div>
+        <h2>The Story of the Lost Son</h2>
+        <div class="ref">Luke 15:11-32</div>
+        <p class="idea">No matter what we have done, God runs to welcome us home.</p>
+        <div class="actions">
+          <a class="btn btn-primary" href="lessons/lost-son/06-W3_lost-son.html">View&nbsp;lesson</a>
+          <a class="btn" href="lessons/lost-son/06-W3_lost-son.pdf">PDF</a>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-week">Jun · Week 4</div>
+        <h2>The Hidden Treasure and the Pearl</h2>
+        <div class="ref">Matthew 13:44-46 (with Matthew 4:18-22)</div>
+        <p class="idea">Knowing Jesus is the greatest treasure — worth more than anything else.</p>
+        <div class="actions">
+          <a class="btn btn-primary" href="lessons/hidden-treasure-pearl/06-W4_hidden-treasure-pearl.html">View&nbsp;lesson</a>
+          <a class="btn" href="lessons/hidden-treasure-pearl/06-W4_hidden-treasure-pearl.pdf">PDF</a>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-week">Jul · Week 1</div>
+        <h2>The Story of the Farmer</h2>
+        <div class="ref">Matthew 13:1-23</div>
+        <p class="idea">When we listen to God's word and let it grow in us, it grows into something wonderful.</p>
+        <div class="actions">
+          <a class="btn btn-primary" href="lessons/the-farmer/07-W1_the-farmer.html">View&nbsp;lesson</a>
+          <a class="btn" href="lessons/the-farmer/07-W1_the-farmer.pdf">PDF</a>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-week">Jul · Week 2</div>
+        <h2>The Parable of the Bags of Gold</h2>
+        <div class="ref">Matthew 25:14-30</div>
+        <p class="idea">God gives each of us special gifts — He wants us to use them, not hide them.</p>
+        <div class="actions">
+          <a class="btn btn-primary" href="lessons/bags-of-gold/07-W2_bags-of-gold.html">View&nbsp;lesson</a>
+          <a class="btn" href="lessons/bags-of-gold/07-W2_bags-of-gold.pdf">PDF</a>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-week">Jul · Week 3</div>
+        <h2>The Servant Who Had No Mercy</h2>
+        <div class="ref">Matthew 18:21-35</div>
+        <p class="idea">God forgives us so much — He wants us to forgive others too.</p>
+        <div class="actions">
+          <a class="btn btn-primary" href="lessons/unmerciful-servant/07-W3_unmerciful-servant.html">View&nbsp;lesson</a>
+          <a class="btn" href="lessons/unmerciful-servant/07-W3_unmerciful-servant.pdf">PDF</a>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="card-week">Jul · Week 4</div>
+        <h2>The Story of the Persistent Widow</h2>
+        <div class="ref">Luke 18:1-8</div>
+        <p class="idea">We should always pray and never give up — God loves to hear us and answer.</p>
+        <div class="actions">
+          <a class="btn btn-primary" href="lessons/persistent-widow/07-W4_persistent-widow.html">View&nbsp;lesson</a>
+          <a class="btn" href="lessons/persistent-widow/07-W4_persistent-widow.pdf">PDF</a>
+        </div>
+      </article>
+    </div>
+  </main>
+  <footer>Each lesson ends with a “What We Learn” page — a clear, kid-friendly takeaway.</footer>
+</body>
+</html>

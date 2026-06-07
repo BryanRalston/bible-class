@@ -1,0 +1,65 @@
+{
+  "id": "lost-son",
+  "month": 6,
+  "weekOfMonth": 3,
+  "title": "The Story of the Lost Son",
+  "reference": "Luke 15:11-32",
+  "bigIdea": "No matter what we have done, God runs to welcome us home.",
+  "memoryVerse": {
+    "text": "This son of mine was lost, and is found!",
+    "reference": "based on Luke 15:24 (NIrV)"
+  },
+  "moral": {
+    "lesson": "God is like the loving father in this story. Even when we make bad choices and wander far away, God never stops watching for us. The moment we turn back to Him and say sorry, He runs to welcome us with open arms and forgives us completely.",
+    "application": "When you do something wrong, you don't have to hide or feel afraid. You can always come back to God and say sorry — and He will be so happy that you came home."
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "character": "the younger son: a young man with short dark hair, no beard, wearing a plain tan tunic; and his father: a kind older man with grey hair and a grey beard in a warm red-brown robe. Keep both looking the same in every picture.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "A kind grey-haired father stands outside a nice home handing a small bag of gold coins to his eager young son. The son looks excited to leave. Warm sunny day, gentle hills behind them.",
+      "text": [
+        "Jesus told a story about a father who had two sons. The family had a good home and lived happily together.",
+        "But one day the younger son said, “Father, I don't want to wait. Give me my share of the money now.”",
+        "So the father gave him his share. Soon the young son packed up everything and traveled far, far away from home."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "The young man in a far-away city, happily spending coins, surrounded by fancy food and friends at a party. Coins are flying out of his bag. He looks like he is having too much fun.",
+      "text": [
+        "In the faraway land, the young son spent his money on parties, fancy food, and foolish things.",
+        "He had lots of fun for a little while, and lots of people wanted to be his friend.",
+        "But he wasn't careful at all. Before long, every last coin was gone."
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "The same young man, now ragged and sad and hungry, sitting on the ground feeding pigs in a muddy pen. His tunic is dirty and torn. Grey, gloomy sky.",
+      "text": [
+        "Now the young son had nothing left. He was so hungry that he took a job feeding pigs.",
+        "All his party friends were gone, and no one would help him.",
+        "Then he had an idea: “Even the workers at my father's house have plenty of food! I will go home, say I am sorry, and ask to be one of his workers.”"
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "The grey-bearded father runs joyfully down a path with open arms toward his tired, dirty son who is walking home. The father's robe flows as he runs. Warm golden light, happy and emotional.",
+      "text": [
+        "So the son began the long walk home. He was nervous — would his father even want him back?",
+        "But while the son was still far down the road, his father saw him coming. His heart was filled with love.",
+        "The father didn't wait. He ran to his son, threw his arms around him, and hugged him tight!"
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "A joyful welcome-home celebration outside the family home. The father puts a fine robe and ring on the smiling son. Happy family and a table of food. Everyone is celebrating, warm and bright.",
+      "text": [
+        "“I'm so sorry,” said the son. But the father was already calling for a celebration! He gave his son a fine robe and a ring.",
+        "“My son was lost, and now he is found!” the father said with joy.",
+        "God loves us just like that father. No matter what we have done, He runs to welcome us home."
+      ]
+    }
+  ]
+}
