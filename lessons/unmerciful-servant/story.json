@@ -14,11 +14,18 @@
     "application": "When someone hurts you or says they're sorry, you can choose to forgive them — just like God forgives you, again and again. Forgiving sets your heart free."
   },
   "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
-  "character": "the king: a kind man with a crown and a royal red and gold robe; and a servant in a plain brown tunic. Keep the king and the servant looking the same in every picture.",
+  "characters": {
+    "jesus": "Jesus, with brown hair and a short beard, wearing a cream and blue robe",
+    "peter": "Peter, a Bible-times fisherman with a short brown beard, wearing a simple tan tunic and cloth belt (ancient robe clothing, NOT modern clothes, no hat)",
+    "king": "the king: a kind man wearing a golden crown and a royal red and gold robe",
+    "servant": "the servant, a man in a plain brown tunic",
+    "friend": "the servant's friend, a worried man in a simple grey tunic"
+  },
   "beats": [
     {
       "n": 1,
-      "scene": "Peter, a friendly fisherman with a beard, is talking with Jesus who has brown hair and a beard in a cream robe. Peter looks curious and is asking a question. Calm, sunny outdoor scene.",
+      "cast": ["peter", "jesus"],
+      "scene": "Peter stands talking with Jesus on a calm sunny day outdoors. Peter looks curious and is asking a question, raising one hand. Just the two of them, in ancient Bible-times robes. Peaceful hillside background.",
       "text": [
         "One day Jesus' friend Peter had a question. “Jesus,” he asked, “how many times should I forgive someone who is unkind to me? Seven times?”",
         "Peter thought seven times sounded like a lot! But Jesus said, “Not seven times — many, many more than that!”",
@@ -27,6 +34,7 @@
     },
     {
       "n": 2,
+      "cast": ["king", "servant"],
       "scene": "A king on a throne kindly forgiving a servant who is kneeling and bowing low with his hands together, begging. A huge pile of gold sits nearby. The king reaches out with a gentle, forgiving gesture. Grand throne room.",
       "text": [
         "There was a servant who owed the king a HUGE amount of money — more than he could ever, ever pay back.",
@@ -36,7 +44,8 @@
     },
     {
       "n": 3,
-      "scene": "The same servant outside grabbing another man (his friend) roughly by the collar, looking angry, while the friend looks frightened. A small coin pouch is nearby. Tense street scene.",
+      "cast": ["servant", "friend"],
+      "scene": "Out on a village street, the servant in the brown tunic angrily grabs his friend in the grey tunic by the collar, looking angry, while the friend looks frightened. A small coin pouch lies on the ground. The king is NOT here. Tense street scene.",
       "text": [
         "But on his way out, that same servant met a friend who owed him just a tiny bit of money.",
         "Instead of being kind, the servant grabbed his friend and shouted, “Pay me back right now!”",
@@ -45,7 +54,8 @@
     },
     {
       "n": 4,
-      "scene": "The angry servant pointing toward a small jail while two guards lead away the frightened friend. The servant has his arms crossed and looks hard-hearted. Gloomy scene.",
+      "cast": ["servant", "friend"],
+      "scene": "The servant in the brown tunic points sternly toward a small jail with bars while a guard leads away his frightened friend in the grey tunic. The servant has his arms crossed and looks hard-hearted. The king is NOT here. Gloomy scene.",
       "text": [
         "The servant refused to forgive his friend even a little bit.",
         "He had his friend thrown into jail until every last coin could be paid back.",
@@ -54,6 +64,7 @@
     },
     {
       "n": 5,
+      "cast": ["king", "servant"],
       "scene": "The king back on his throne looking serious and disappointed, speaking firmly to the servant who now looks ashamed and sorry, head down. Grand throne room, serious mood.",
       "text": [
         "When the king heard what had happened, he called the servant back.",

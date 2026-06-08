@@ -14,11 +14,17 @@
     "application": "Keep talking to God and never stop praying, even when an answer takes a while. God always hears you, He loves you, and He loves to answer His children."
   },
   "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
-  "character": "the widow: a kind older woman with a gentle face wearing a simple blue robe and a head covering; and the judge: a grumpy man in fancy robes. Keep the widow and the judge looking the same in every picture.",
+  "characters": {
+    "jesus": "Jesus, with brown hair and a short beard, wearing a cream and blue robe",
+    "widow": "the widow: a kind older woman with a gentle face, wearing a simple blue robe and a head covering",
+    "judge": "the judge: a grumpy older man with a frown, wearing fancy gold-trimmed robes",
+    "child": "a happy young child with a peaceful face, hands together in prayer, looking upward"
+  },
   "beats": [
     {
       "n": 1,
-      "scene": "Jesus with brown hair and a beard in a cream robe sits teaching a small group of people outdoors, gesturing kindly as he tells a story. Sunny, peaceful hillside.",
+      "cast": ["jesus"],
+      "scene": "Jesus sits teaching a small group of ordinary grown-ups and children outdoors, gesturing kindly as he tells a story. Sunny, peaceful hillside. Just Jesus and his everyday listeners.",
       "text": [
         "Jesus wanted to teach His friends something important about prayer.",
         "He wanted them to know that they should always keep praying…",
@@ -27,6 +33,7 @@
     },
     {
       "n": 2,
+      "cast": ["widow", "judge"],
       "scene": "A kind older woman in a blue robe and head covering stands before a grumpy judge who sits in a fancy chair looking bored and uncaring, turning his head away. A simple courtroom in a Bible-times building.",
       "text": [
         "In a certain town there was a judge whose job was to help people. But this judge didn't really care about anyone.",
@@ -36,7 +43,8 @@
     },
     {
       "n": 3,
-      "scene": "The same older woman in the blue robe coming back again and again, shown determined and hopeful, knocking at the judge's door. Maybe shown returning down a path. Bright, determined mood.",
+      "cast": ["widow", "judge"],
+      "scene": "A sequence showing the same older woman in the blue robe coming back to the judge's door again and again, looking determined and hopeful, while the grumpy judge stands with arms crossed. Bright, determined mood.",
       "text": [
         "But the widow did not give up. Not even a little.",
         "She came back the next day, and the next day, and the day after that.",
@@ -45,7 +53,8 @@
     },
     {
       "n": 4,
-      "scene": "The grumpy judge throwing up his hands and finally agreeing to help, looking a bit exasperated, while the widow stands hopeful. The judge gestures 'okay, okay!'. Courtroom scene.",
+      "cast": ["widow", "judge"],
+      "scene": "The grumpy judge throwing up his hands and finally agreeing to help, looking a bit exasperated, while the widow in the blue robe stands hopeful and glad. Courtroom scene.",
       "text": [
         "Finally the judge said to himself, “I don't really care about anyone…",
         "but this woman keeps coming back and she will not give up!",
@@ -54,7 +63,8 @@
     },
     {
       "n": 5,
-      "scene": "A warm, glowing scene of a child or person kneeling in happy prayer with hands together, looking up toward a bright, gentle light from the sky. Peaceful and hopeful, full of warmth.",
+      "cast": ["child"],
+      "scene": "A warm, glowing scene of a single young child kneeling in happy prayer with hands together, eyes closed or looking up toward a bright, gentle light from the sky. Peaceful and hopeful, full of warmth. Only the child is in the scene.",
       "text": [
         "Then Jesus explained what the story meant. “Did you see? Even an unkind judge finally helped the woman who kept asking.",
         "How much MORE will our loving God listen to His own children who pray to Him!”",

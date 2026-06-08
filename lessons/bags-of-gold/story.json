@@ -14,11 +14,15 @@
     "application": "God has given you special gifts — things you are good at and ways you can help others. Use them, share them, and don't be afraid to try. That makes God smile!"
   },
   "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
-  "character": "the master: a kind well-dressed man with a short dark beard in a fine purple and gold robe; and his three servants in simple tunics. Keep the master looking the same in every picture.",
+  "characters": {
+    "master": "the master: a kind well-dressed man with a short dark beard, wearing a fine purple and gold robe",
+    "servant": "a servant, a young man in a simple cream tunic"
+  },
   "beats": [
     {
       "n": 1,
-      "scene": "A kind well-dressed master with a small suitcase is handing out bags of gold coins to three servants standing in a row: one gets five bags, one gets two bags, one gets a single bag. Warm indoor home scene.",
+      "cast": ["master", "servant"],
+      "scene": "A kind well-dressed master with a small travel bag is handing out bags of gold coins to three servants standing in a row: one gets five bags, one gets two bags, one gets a single bag. Warm indoor home scene.",
       "text": [
         "Jesus told a story about a master who was going away on a long journey.",
         "Before he left, he trusted his servants to take care of his money. He gave each one bags of gold to look after.",
@@ -27,7 +31,8 @@
     },
     {
       "n": 2,
-      "scene": "The first servant happily working hard at a busy market stall, trading goods and earning more bags of gold. He looks cheerful and busy. Sunny marketplace.",
+      "cast": ["servant"],
+      "scene": "A servant happily working hard at a busy market stall, trading goods and earning more bags of gold, which sit beside him. He looks cheerful and busy. The master is away, so he is NOT in this scene. Sunny marketplace.",
       "text": [
         "The servant with five bags got right to work. He traded and worked hard, and earned five more bags of gold!",
         "The servant with two bags worked hard too, and earned two more.",
@@ -36,7 +41,8 @@
     },
     {
       "n": 3,
-      "scene": "The third servant nervously digging a hole in the ground at night and hiding his single bag of gold in the dirt, looking worried and afraid. Dark, lonely scene with a small lantern.",
+      "cast": ["servant"],
+      "scene": "A worried servant, all alone at night, nervously digging a hole in the ground and hiding his single bag of gold in the dirt. A small lantern glows beside him. The master is away, so no one else is in this scene. Dark, lonely.",
       "text": [
         "But the servant with one bag was afraid. “What if I lose it?” he worried.",
         "So instead of using his gold, he dug a deep hole in the ground.",
@@ -45,7 +51,8 @@
     },
     {
       "n": 4,
-      "scene": "The master has returned and is smiling proudly at the first two servants who proudly show him their many bags of gold piled up. The master gives a happy thumbs up. Warm, joyful scene.",
+      "cast": ["master", "servant"],
+      "scene": "The master has returned and is smiling proudly at the first two servants, who show him their many bags of gold piled up. The master gives a happy thumbs up. Warm, joyful scene.",
       "text": [
         "After a long time, the master came home and asked his servants what they had done.",
         "The first two servants showed him all the gold they had earned by working hard.",
@@ -54,7 +61,8 @@
     },
     {
       "n": 5,
-      "scene": "The third servant sadly holding out one dirty bag of gold to the master, who looks disappointed and a little sad. The hidden bag is covered in dirt. Quiet, somber scene.",
+      "cast": ["master", "servant"],
+      "scene": "The third servant sadly holding out one dusty bag of gold to the master, who looks disappointed and a little sad. The bag is covered in dirt. Quiet, somber scene.",
       "text": [
         "Then the last servant brought out the one dusty bag he had buried in the ground. “I was too afraid to use it,” he said.",
         "The master was sad. “You didn't even try,” he told him. “I would have been happy with whatever you did.”",

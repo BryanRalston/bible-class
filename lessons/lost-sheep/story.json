@@ -14,11 +14,15 @@
     "application": "You matter so much to God. If you ever feel lost, alone, or far away, remember — Jesus is always looking for you, and He is so happy when you are close to Him."
   },
   "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
-  "character": "a kind young shepherd with short brown hair and a short brown beard, wearing a simple olive-green robe and brown sandals, holding a wooden shepherd's staff",
+  "characters": {
+    "jesus": "Jesus, a gentle man with brown hair and a short beard, wearing a cream and blue robe",
+    "shepherd": "a kind young shepherd with short brown hair and a short brown beard, wearing a simple olive-green robe and brown sandals, holding a wooden shepherd's staff"
+  },
   "beats": [
     {
       "n": 1,
-      "scene": "Jesus, a gentle man in a cream and blue robe with brown hair and beard, sits outdoors on a grassy hillside talking warmly to a small group of happy people and children who are listening closely. Soft blue sky, a few fluffy clouds.",
+      "cast": ["jesus"],
+      "scene": "Jesus sits outdoors on a grassy hillside, talking warmly and gesturing to a small group of ordinary grown-ups and children who are listening closely. Soft blue sky, a few fluffy clouds.",
       "text": [
         "Crowds of people loved to gather around Jesus and listen to Him. Even people who had made big mistakes wanted to be near Him.",
         "Some of the religious leaders grumbled. “Why does Jesus spend time with people like that?” they said.",
@@ -27,6 +31,7 @@
     },
     {
       "n": 2,
+      "cast": ["shepherd"],
       "scene": "The shepherd stands on a green grassy hill surrounded by a large flock of fluffy white sheep under a bright blue sky. He is counting them and looking a little worried, because there is one empty gap where a sheep should be.",
       "text": [
         "“Imagine a shepherd who has one hundred sheep,” Jesus said. The shepherd took care of them all day long.",
@@ -36,15 +41,17 @@
     },
     {
       "n": 3,
+      "cast": ["shepherd"],
       "scene": "The shepherd walks alone through rocky hills at golden dusk, holding his wooden staff and searching carefully, looking over rocks and down into a valley for his lost sheep. Warm orange evening sky.",
       "text": [
-        "The shepherd made sure the ninety-nine sheep were safe. Then he hurried off to look for the one that was lost.",
-        "He climbed over the hills and searched through the rocky places, calling out for his little sheep.",
+        "Now, the shepherd still had ninety-nine other sheep — but that did not matter. That one lost sheep was so special to him that he had to go and find it.",
+        "He made sure the ninety-nine were safe, then climbed over the hills and searched the rocky places, calling out for his little sheep.",
         "It was getting dark, but he would not give up. He kept looking and looking until he found it."
       ]
     },
     {
       "n": 4,
+      "cast": ["shepherd"],
       "scene": "The happy smiling shepherd has found his little white lamb. He gently lifts the small fluffy sheep up onto his shoulders to carry it. Both look joyful and relieved, soft green hills and warm sky behind them.",
       "text": [
         "At last — there it was! The shepherd found his little lost sheep.",
@@ -54,6 +61,7 @@
     },
     {
       "n": 5,
+      "cast": ["shepherd"],
       "scene": "The shepherd celebrates outside his home with a small group of cheerful friends and neighbors. The little white sheep is safe beside him. Everyone is smiling and waving, warm and joyful, with a sunny sky.",
       "text": [
         "When he got home, the shepherd called all his friends and neighbors together. “Be happy with me!” he said. “I found my lost sheep!”",

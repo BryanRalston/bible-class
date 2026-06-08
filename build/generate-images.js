@@ -49,8 +49,19 @@ async function main() {
       console.log(`Beat ${beat.n}: exists, skipping (use --force to regenerate)`);
       continue;
     }
-    const prompt = [beat.scene, story.character ? `Main character: ${story.character}.` : '', story.style]
-      .filter(Boolean).join(' ');
+    // Who appears in THIS scene. If a beat lists `cast`, only those characters
+    // (looked up in story.characters) are described + a "no one else" clause —
+    // this stops a character from bleeding into scenes they don't belong in.
+    // Falls back to the global `story.character` for simple single-cast lessons.
+    let castDesc = '';
+    let castClause = '';
+    if (Array.isArray(beat.cast)) {
+      castDesc = (story.characters ? beat.cast.map((k) => story.characters[k]).filter(Boolean).join(' ') : '');
+      castClause = ' Show only the people described in this scene — do not add any other named characters.';
+    } else if (story.character) {
+      castDesc = `Main character: ${story.character}.`;
+    }
+    const prompt = [beat.scene, castDesc, castClause, story.style].filter(Boolean).join(' ');
     console.log(`Beat ${beat.n}: generating...`);
     const buf = await genWithRetry(prompt, `beat${beat.n}`);
     fs.writeFileSync(file, buf);
