@@ -1,0 +1,61 @@
+{
+  "id": "god-made-everything",
+  "month": 8,
+  "weekOfMonth": 1,
+  "title": "God Made Everything, God Made Me",
+  "reference": "Genesis 1:1-31; Psalm 104",
+  "bigIdea": "God made everything — and God made you on purpose.",
+  "memoryVerse": {
+    "text": "How you made me is amazing and wonderful.",
+    "reference": "Psalm 139:14 (NIrV)"
+  },
+  "moral": {
+    "lesson": "God made the whole world — the light, the sky, the land, the animals, and people. And out of everything He made, God also made YOU. You are part of God's good and wonderful creation.",
+    "application": "When you see the sky, the trees, and the animals, remember: the same loving God who made all of it made you too — and He is happy He did."
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "God's creation beginning: a dark sky bursting into bright warm light, with a glowing sun, a moon, and twinkling stars appearing over a brand-new world.",
+      "text": [
+        "In the very beginning, there was nothing at all.",
+        "Then God spoke — and there was light!",
+        "God made the bright sun, the gentle moon, and all the twinkling stars."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "A beautiful brand-new world: green mountains, deep blue seas and rivers, tall trees and colorful flowers under a sunny blue sky.",
+      "text": [
+        "God made the dry land and the deep blue seas.",
+        "He made tall mountains, flowing rivers, trees, and flowers of every color."
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "A lush green world full of happy animals God made: birds flying, fish swimming in a river, a lion, an elephant, rabbits, and butterflies, all cheerful.",
+      "text": [
+        "Then God filled the world with animals!",
+        "Birds to fly, fish to swim, and creatures big and small — God made them all."
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "A happy man and woman standing in a beautiful green garden full of plants and friendly animals, smiling, warm sunlight.",
+      "text": [
+        "God looked at everything He had made, and it was very good.",
+        "Then God made the very first people to know Him and enjoy His world."
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "A cheerful young child with short brown hair stands outdoors with arms open wide, smiling up at a bright sky, surrounded by trees, flowers, and a friendly animal, full of joy.",
+      "text": [
+        "And God made YOU, too!",
+        "Out of the whole big world, God chose to make you on purpose.",
+        "God made everything — and you are part of His wonderful work."
+      ]
+    }
+  ]
+}

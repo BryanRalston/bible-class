@@ -1,0 +1,60 @@
+{
+  "id": "god-loves-me",
+  "month": 8,
+  "weekOfMonth": 5,
+  "title": "God Loves Me",
+  "reference": "John 3:16; 1 John 4:9-10",
+  "bigIdea": "God loves you so much that He gave His Son, Jesus.",
+  "memoryVerse": {
+    "text": "How you made me is amazing and wonderful.",
+    "reference": "Psalm 139:14 (NIrV)"
+  },
+  "moral": {
+    "lesson": "God loves you more than you can imagine — bigger than the sky and deeper than the sea. He showed His love by sending His Son, Jesus. We didn't have to earn it; God loved us first, just because. And nothing can ever stop God from loving you.",
+    "application": "Whenever you feel sad, small, or unsure, remember the biggest truth of all: God loves you, He always has, and nothing will ever change that."
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "A cheerful young child with short brown hair standing outside under a huge warm sky with a glowing sun, arms open, feeling loved, the whole world bright and welcoming.",
+      "text": [
+        "God loves the whole big world —",
+        "and that means God loves YOU."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "The same brown-haired child standing on a hill looking out at a vast sky and a deep blue ocean, amazed at how big it all is, warm glowing light.",
+      "text": [
+        "God's love is bigger than the tallest sky.",
+        "It is deeper than the deepest sea."
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "A gentle warm nativity-style scene: a soft glowing star shining over a humble stable, representing God sending His Son Jesus, peaceful and tender.",
+      "text": [
+        "God showed His great love in the best way of all.",
+        "He sent His own Son, Jesus, to us."
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "The brown-haired child being warmly hugged from behind by a loving parent figure, both smiling, cozy and safe, soft warm light.",
+      "text": [
+        "We didn't have to earn God's love.",
+        "God loved us first — just because He wanted to."
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "The brown-haired child smiling joyfully with a big glowing heart of light all around them, feeling completely safe and loved, radiant and warm.",
+      "text": [
+        "Nothing can ever stop God from loving you.",
+        "Not ever.",
+        "God made you, God knows you, and God loves you — forever."
+      ]
+    }
+  ]
+}

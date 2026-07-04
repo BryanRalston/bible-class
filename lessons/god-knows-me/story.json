@@ -1,0 +1,60 @@
+{
+  "id": "god-knows-me",
+  "month": 8,
+  "weekOfMonth": 4,
+  "title": "God Knows Everything About Me",
+  "reference": "Psalm 139:1-4; Matthew 6:26; 10:30, 42",
+  "bigIdea": "God knows everything about you and still loves you completely.",
+  "memoryVerse": {
+    "text": "How you made me is amazing and wonderful.",
+    "reference": "Psalm 139:14 (NIrV)"
+  },
+  "moral": {
+    "lesson": "God knows everything about you — your thoughts, your words, even the number of hairs on your head. He cares for the little birds, and you matter to Him even more. Nothing about you is hidden from God, and He loves you completely.",
+    "application": "You never have to feel alone or unknown. God sees you, understands you, and loves every part of you — all the time."
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "A cheerful young child with short brown hair waking up and stretching happily in a cozy bedroom in the morning, warm sunlight through the window.",
+      "text": [
+        "God knows you better than anyone in the whole world.",
+        "He knows when you wake up and when you lie down to sleep."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "The same brown-haired child sitting and thinking happily, with a soft thought-bubble glowing above their head, in a bright friendly setting.",
+      "text": [
+        "God even knows your thoughts and your words —",
+        "before you ever say them out loud!"
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "A close, sweet view of the brown-haired child smiling, with a gentle sparkle highlighting their hair, warm and cheerful.",
+      "text": [
+        "God knows every little thing about you.",
+        "Jesus said God even knows the number of hairs on your head!"
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "The brown-haired child outdoors joyfully watching little birds being fed in a sunny garden, birds flying around happily.",
+      "text": [
+        "Jesus said God takes good care of the little birds.",
+        "And you matter to God even more than the birds do."
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "The brown-haired child resting peacefully and content under a warm glowing sky, looking safe and loved, gentle light all around.",
+      "text": [
+        "There is nothing about you that God doesn't know.",
+        "He knows everything — and He loves you completely.",
+        "You are always seen, always known, always loved."
+      ]
+    }
+  ]
+}

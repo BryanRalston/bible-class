@@ -1,0 +1,60 @@
+{
+  "id": "made-in-his-image",
+  "month": 8,
+  "weekOfMonth": 3,
+  "title": "God Made Me in His Image",
+  "reference": "Genesis 1:26-27; Exodus 34:6-7",
+  "bigIdea": "You are made in God's image — made to be like Him.",
+  "memoryVerse": {
+    "text": "How you made me is amazing and wonderful.",
+    "reference": "Psalm 139:14 (NIrV)"
+  },
+  "moral": {
+    "lesson": "When God made people, He made us in His own image. That means we can love, create, help, and forgive — just like God does. When you are kind and loving, you show others a little picture of what God is like.",
+    "application": "You carry God's likeness inside you. So today, you can choose to be kind, patient, and forgiving — and show people how good God is."
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "A warm glowing sky over a beautiful new world, with soft golden light shining down onto a happy man and woman standing below, as if lovingly created.",
+      "text": [
+        "When God made people, He did something very special.",
+        "He said, “Let us make them in our image, to be like us.”"
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "A cheerful young child with short brown hair happily painting a colorful picture and building with blocks, being creative, in a bright room.",
+      "text": [
+        "Being made in God's image means we can do things like God does.",
+        "We can create, imagine, and make beautiful things."
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "The same brown-haired child gently hugging and comforting a sad friend, showing kindness and care, warm and tender.",
+      "text": [
+        "God is loving, kind, patient, and forgiving.",
+        "Because we are made like Him, we can be loving and kind too."
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "The brown-haired child sharing food and helping another child up, both smiling, with other kids playing kindly together in the background.",
+      "text": [
+        "When you share, help, and forgive,",
+        "you show other people a little picture of what God is like."
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "The brown-haired child standing happily with a soft warm glow around their heart, smiling, looking proud and loved.",
+      "text": [
+        "You carry something very special inside you —",
+        "God's own likeness.",
+        "You were made to show His love to the world."
+      ]
+    }
+  ]
+}

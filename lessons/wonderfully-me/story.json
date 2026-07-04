@@ -1,0 +1,60 @@
+{
+  "id": "wonderfully-me",
+  "month": 8,
+  "weekOfMonth": 2,
+  "title": "Wonderfully Me",
+  "reference": "Genesis 1:27; Psalm 139:13-14",
+  "bigIdea": "God carefully made you, and you are wonderful.",
+  "memoryVerse": {
+    "text": "How you made me is amazing and wonderful.",
+    "reference": "Psalm 139:14 (NIrV)"
+  },
+  "moral": {
+    "lesson": "God made every single part of you on purpose — your face, your laugh, the way you think. There is no one else in the whole world exactly like you. You are not an accident; you are wonderfully made.",
+    "application": "When you feel like you wish you were more like someone else, remember God made YOU on purpose and loves who He made. You are wonderful just as you are."
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "A warm, glowing scene of God's gentle care: a soft light shining down over a peaceful home where a happy baby is cradled, cozy and loved.",
+      "text": [
+        "Long before you were born, God already knew all about you.",
+        "He planned for you and could not wait for you to be here."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "A cheerful young child with short brown hair smiling and pointing happily at their own eyes, hands, and feet, in a bright friendly room.",
+      "text": [
+        "God carefully made every part of you.",
+        "Your bright eyes, your happy smile, your wiggly fingers and toes — God made them all."
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "The same cheerful brown-haired child laughing joyfully and talking, with little musical notes and hearts floating around to show their unique voice and laugh.",
+      "text": [
+        "God gave you your very own laugh and your very own voice.",
+        "He gave you your own way of thinking and the things you love to do."
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "A happy group of different children of many looks standing together, with the brown-haired child in the middle, each one unique and smiling.",
+      "text": [
+        "Look around — everyone is different!",
+        "There is no one else in the whole world exactly like you."
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "The cheerful brown-haired child standing proudly and happily with arms open, a warm glow around them, looking joyful and loved.",
+      "text": [
+        "You are not an accident.",
+        "God made you carefully, on purpose, and with love.",
+        "You are wonderfully made!"
+      ]
+    }
+  ]
+}
