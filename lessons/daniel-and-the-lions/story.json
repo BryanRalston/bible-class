@@ -1,0 +1,64 @@
+{
+  "id": "daniel-and-the-lions",
+  "month": 9,
+  "weekOfMonth": 1,
+  "title": "Daniel and the Lions",
+  "reference": "Daniel 6:1-23",
+  "keyQuestion": "Who is always with you?",
+  "bigIdea": "God is always with me.",
+  "memoryVerse": {
+    "text": "God is with you wherever you go.",
+    "reference": "Joshua 1:9 (NLT)"
+  },
+  "moral": {
+    "lesson": "Daniel kept praying to God even when it was scary and even when it got him thrown into a den of lions. God did not leave Daniel alone — He sent an angel and kept him safe all night long. God was with Daniel in the very scariest place.",
+    "application": "When you feel afraid — at night, at a new school, or when something hard happens — you are never alone. God is with you, just like He was with Daniel."
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "Daniel, a kind man with a short grey beard wearing a long blue robe, stands smiling in a grand palace room while the king in a red and gold robe with a crown speaks warmly to him.",
+      "text": [
+        "Daniel loved God very much, and he worked for the king.",
+        "Daniel did such a good job that the king wanted to put him in charge of the whole kingdom!"
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "A group of jealous royal officials in fancy robes whisper together in a palace hallway, looking sneaky and unhappy, plotting.",
+      "text": [
+        "But some of the other leaders were jealous of Daniel.",
+        "They made a sneaky new rule: for thirty days, no one could pray to anyone except the king.",
+        "Anyone who did would be thrown to the lions!"
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "Daniel, the kind man with a short grey beard in a long blue robe, kneels peacefully in prayer by an open window with warm sunlight streaming in, looking calm and trusting.",
+      "text": [
+        "Daniel heard about the new rule. But he still went to his window,",
+        "got down on his knees, and prayed to God — just like he always did.",
+        "Daniel would not stop talking to God."
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "Daniel, the kind man with a short grey beard in a long blue robe, sits calmly in a dim stone den surrounded by several big friendly-looking lions who are resting quietly. A soft warm glow of light shines around him.",
+      "text": [
+        "So Daniel was thrown into the den of lions.",
+        "The king was very sad, but God had a plan.",
+        "God sent an angel to shut the lions' mouths, and the lions did not hurt Daniel at all!"
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "Morning sunlight pours into the open lion den as the happy king in a red and gold robe helps Daniel, the kind man with a short grey beard in a long blue robe, climb safely out. Both are smiling with relief and joy.",
+      "text": [
+        "In the morning, the king ran to the den and called out, “Daniel! Are you okay?”",
+        "“My God sent His angel and kept me safe!” Daniel answered.",
+        "God was with Daniel the whole time. And God is always with me."
+      ]
+    }
+  ]
+}

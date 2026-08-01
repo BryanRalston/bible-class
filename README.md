@@ -21,6 +21,11 @@ matching **PDF** is generated for printing or projecting. Files are named
 | Jul W2 | [The Parable of the Bags of Gold](lessons/bags-of-gold/) | Matthew 25:14–30 | [PDF](lessons/bags-of-gold/07-W2_bags-of-gold.pdf) · [HTML](lessons/bags-of-gold/07-W2_bags-of-gold.html) |
 | Jul W3 | [The Servant Who Had No Mercy](lessons/unmerciful-servant/) | Matthew 18:21–35 | [PDF](lessons/unmerciful-servant/07-W3_unmerciful-servant.pdf) · [HTML](lessons/unmerciful-servant/07-W3_unmerciful-servant.html) |
 | Jul W4 | [The Story of the Persistent Widow](lessons/persistent-widow/) | Luke 18:1–8 | [PDF](lessons/persistent-widow/07-W4_persistent-widow.pdf) · [HTML](lessons/persistent-widow/07-W4_persistent-widow.html) |
+| Aug W1–W5 | (see `lessons/` — God Made Everything → God Loves Me) | — | built locally |
+| Sep W1 | [Daniel and the Lions](lessons/daniel-and-the-lions/) | Daniel 6:1–23 | [PDF](lessons/daniel-and-the-lions/09-W1_daniel-and-the-lions.pdf) · [HTML](lessons/daniel-and-the-lions/09-W1_daniel-and-the-lions.html) |
+| Sep W2 | [Hagar and Ishmael](lessons/hagar-and-ishmael/) | Genesis 21:14–20 | [PDF](lessons/hagar-and-ishmael/09-W2_hagar-and-ishmael.pdf) · [HTML](lessons/hagar-and-ishmael/09-W2_hagar-and-ishmael.html) |
+| Sep W3 | [The Story of Joseph](lessons/joseph/) | Genesis 37; 39–47 | [PDF](lessons/joseph/09-W3_joseph.pdf) · [HTML](lessons/joseph/09-W3_joseph.html) |
+| Sep W4 | [The Story of Jonah](lessons/jonah/) | Jonah 1:1–3:3 | [PDF](lessons/jonah/09-W4_jonah.pdf) · [HTML](lessons/jonah/09-W4_jonah.html) |
 
 _Open the PDF to print or present. Open the HTML in any browser to view or to
 **File → Print → Save as PDF** after edits._

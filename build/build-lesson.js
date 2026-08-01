@@ -11,7 +11,18 @@ const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replac
 
 function imgDataUri(file) {
   const b64 = fs.readFileSync(file).toString('base64');
-  return `data:image/png;base64,${b64}`;
+  const ext = path.extname(file).toLowerCase();
+  const mime = (ext === '.jpg' || ext === '.jpeg') ? 'image/jpeg' : 'image/png';
+  return `data:${mime};base64,${b64}`;
+}
+
+function resolveBeatImage(imgDir, n, id) {
+  const base = `${String(n).padStart(2, '0')}_${id}`;
+  for (const ext of ['.png', '.jpg', '.jpeg']) {
+    const p = path.join(imgDir, base + ext);
+    if (fs.existsSync(p)) return p;
+  }
+  throw new Error(`Missing image for beat ${n}: expected ${base}.png|.jpg in ${imgDir}`);
 }
 
 function main() {
@@ -28,7 +39,7 @@ function main() {
   const weekLabel = dated ? `${MONTHS[story.month]} — Week ${story.weekOfMonth}` : '';
 
   const beatPages = story.beats.map((beat) => {
-    const file = path.join(imgDir, `${String(beat.n).padStart(2, '0')}_${story.id}.png`);
+    const file = resolveBeatImage(imgDir, beat.n, story.id);
     const uri = imgDataUri(file);
     const isLast = beat.n === story.beats.length;
     const paras = beat.text.map((t, i) => {
@@ -109,7 +120,8 @@ function main() {
   }
   .title-page .kicker { font-size: 17pt; letter-spacing: 2px; text-transform: uppercase; color: #2e6f4e; margin-bottom: 0.25in; }
   .title-page h1 { font-size: 50pt; font-weight: 800; margin: 0 0 0.18in 0; color: #20302a; line-height: 1.1; }
-  .title-page .ref { font-size: 24pt; color: #555; margin: 0 0 0.5in 0; }
+  .title-page .ref { font-size: 24pt; color: #555; margin: 0 0 0.3in 0; }
+  .title-page .key-q { font-size: 22pt; font-weight: 600; color: #2e6f4e; margin: 0 0 0.35in 0; }
   .verse { max-width: 8.5in; }
   .verse-text { font-size: 24pt; font-style: italic; color: #2b2b2b; line-height: 1.4; margin: 0 0 0.12in 0; }
   .verse-ref { font-size: 16pt; color: #2e6f4e; margin: 0; }
@@ -148,6 +160,7 @@ function main() {
     <div class="kicker">Kids Bible Class${weekLabel ? ' &middot; ' + esc(weekLabel) : ''}</div>
     <h1>${esc(story.title)}</h1>
     <div class="ref">${esc(story.reference)}</div>
+    ${story.keyQuestion ? `<div class="key-q">${esc(story.keyQuestion)}</div>` : ''}
     ${mv}
     <div class="big-idea-banner">${esc(story.bigIdea)}</div>
   </section>

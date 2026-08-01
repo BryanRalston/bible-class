@@ -1,0 +1,65 @@
+{
+  "id": "jonah",
+  "month": 9,
+  "weekOfMonth": 4,
+  "title": "The Story of Jonah",
+  "reference": "Jonah 1:1-3:3",
+  "keyQuestion": "Who is always with you?",
+  "bigIdea": "God is always with me.",
+  "memoryVerse": {
+    "text": "God is with you wherever you go.",
+    "reference": "Joshua 1:9 (NLT)"
+  },
+  "moral": {
+    "lesson": "Jonah tried to run away from God — he got on a ship going the opposite direction! But there was nowhere Jonah could go where God was not with him. God still loved Jonah, rescued him from the sea, and gave him a second chance.",
+    "application": "You can never go anywhere that God is not. Even when you make a wrong choice, God is still with you and always ready to give you another chance."
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "Jonah, a man with a short brown beard wearing a rust-orange robe, stands outdoors on a sunny hillside looking uncertain and worried, with a warm glow of light from the sky above him.",
+      "text": [
+        "God gave Jonah an important job. “Go to the big city of Nineveh,” God said.",
+        "“Tell the people there to stop doing wrong things.”",
+        "But Jonah did not want to go."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "Jonah, the man with a short brown beard in a rust-orange robe, hurries up a wooden plank onto a sailing ship at a busy harbor, looking over his shoulder. Blue water and a bright sky.",
+      "text": [
+        "So Jonah tried to run away from God.",
+        "He got on a ship sailing the opposite direction, far away from Nineveh.",
+        "But you can never run away from God."
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "A wooden sailing ship tosses on big rolling waves during a wild storm with dark clouds, wind, and rain. Frightened sailors hold onto the ship, and Jonah, the man with a short brown beard in a rust-orange robe, is among them.",
+      "text": [
+        "Out at sea, God sent a great wind, and a huge storm shook the ship!",
+        "The sailors were terrified. Jonah knew the storm was because he had run away.",
+        "“Throw me into the sea,” Jonah told them, “and the water will calm down.”"
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "A friendly cartoon view inside the belly of a great big fish: Jonah, the man with a short brown beard in a rust-orange robe, kneels praying with his hands together, with a soft warm glow of light around him. Gentle blue-green underwater tones, not scary.",
+      "text": [
+        "As soon as Jonah went into the water, God sent a great big fish to swallow him up and keep him safe.",
+        "Jonah was inside the fish for three days and three nights.",
+        "There in the dark, Jonah prayed — and God heard him."
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "Jonah, the man with a short brown beard in a rust-orange robe, stands safely on a sunny sandy beach with the great big fish swimming away in the blue water behind him. He looks up thankfully at a bright warm sky, and a large city is visible in the distance.",
+      "text": [
+        "God told the fish to put Jonah safely on dry land.",
+        "Then God said again, “Go to Nineveh.” This time Jonah went!",
+        "Jonah could not run away from God — because God is always with me."
+      ]
+    }
+  ]
+}

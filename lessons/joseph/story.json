@@ -1,0 +1,64 @@
+{
+  "id": "joseph",
+  "month": 9,
+  "weekOfMonth": 3,
+  "title": "The Story of Joseph",
+  "reference": "Genesis 37; 39-47",
+  "keyQuestion": "Who is always with you?",
+  "bigIdea": "God is always with me.",
+  "memoryVerse": {
+    "text": "God is with you wherever you go.",
+    "reference": "Joshua 1:9 (NLT)"
+  },
+  "moral": {
+    "lesson": "So many hard things happened to Joseph — his brothers sold him, he was a servant far from home, and he was even put in prison for something he didn't do. But God was with Joseph through every single part of it, and God used Joseph to save many people from hunger.",
+    "application": "Hard times don't mean God has left you. God was with Joseph in the pit, in the palace, and everywhere in between — and God is with you in your hard days too."
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "Joseph, a cheerful young man with short dark hair and no beard, proudly wears a beautiful colorful striped coat while standing outdoors on sunny green hills. A few of his older brothers stand nearby looking grumpy and jealous.",
+      "text": [
+        "Joseph's father loved him very much and gave him a beautiful colorful coat.",
+        "But Joseph's older brothers saw the coat and became very jealous of him."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "Joseph, the young man with short dark hair and no beard, now wearing a plain tan tunic, is led away by traders with camels across a sandy desert road. He looks sad and worried, glancing back over his shoulder. Warm desert sky.",
+      "text": [
+        "One day his brothers did something terrible.",
+        "They took his colorful coat and sold him to traders going far away to Egypt.",
+        "Joseph was taken from his family and his home."
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "Joseph, the young man with short dark hair and no beard in a plain tan tunic, sits inside a dim stone prison cell with a small barred window. A soft warm beam of light shines down on him and he looks calm and hopeful, not defeated.",
+      "text": [
+        "In Egypt, Joseph worked hard and did what was right.",
+        "But he was blamed for something he did not do, and he was thrown into prison.",
+        "Even there, God was with Joseph and helped him."
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "Joseph, the young man with short dark hair and no beard, now wearing a fine white and gold Egyptian robe, stands confidently in a grand Egyptian palace explaining a dream to Pharaoh, who sits on a golden throne wearing a striped Egyptian headdress and looks amazed.",
+      "text": [
+        "Then Pharaoh, the king of Egypt, had two dreams that no one could understand.",
+        "God helped Joseph explain them: seven good years of food were coming, then seven hungry years.",
+        "Pharaoh was amazed and put Joseph in charge of storing up food for the whole land!"
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "Joseph, the young man with short dark hair in a fine white and gold Egyptian robe, warmly hugs his older brothers in a grand Egyptian hall filled with baskets and sacks of grain. Everyone is smiling, emotional, and joyful.",
+      "text": [
+        "When the hungry years came, Joseph's brothers traveled to Egypt looking for food —",
+        "and they found Joseph! Instead of paying them back, Joseph forgave them and hugged them.",
+        "God had been with Joseph the whole time. And God is always with me."
+      ]
+    }
+  ]
+}

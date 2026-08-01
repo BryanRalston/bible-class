@@ -1,0 +1,64 @@
+{
+  "id": "hagar-and-ishmael",
+  "month": 9,
+  "weekOfMonth": 2,
+  "title": "Hagar and Ishmael",
+  "reference": "Genesis 21:14-20",
+  "keyQuestion": "Who is always with you?",
+  "bigIdea": "God is always with me.",
+  "memoryVerse": {
+    "text": "God is with you wherever you go.",
+    "reference": "Joshua 1:9 (NLT)"
+  },
+  "moral": {
+    "lesson": "Hagar and her son Ishmael were all alone in the hot desert with no water left. Hagar felt scared and hopeless. But God saw them, God heard them, and God showed them a well of water. They were never really alone.",
+    "application": "Even when you feel alone or forgotten, God sees you and hears you. He knows exactly what you need, and He is always with you."
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "Hagar, a kind young mother with long dark hair wearing a simple tan robe and a green head covering, walks into a wide sandy desert holding the hand of her young son Ishmael, a boy with short dark hair in a light brown tunic. She carries a water skin over her shoulder. Warm sunny sky.",
+      "text": [
+        "Hagar and her young son Ishmael had to leave their home.",
+        "They walked out into the big, dry desert with only a little bread and a skin of water."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "Hagar, the kind young mother with long dark hair in a tan robe and green head covering, holds up an empty water skin, looking worried, while her young son Ishmael in a light brown tunic looks tired beside her. Hot desert sand and bright sun all around.",
+      "text": [
+        "They walked and walked under the hot sun.",
+        "Soon the water was all gone.",
+        "Hagar did not know what to do."
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "Hagar, the kind young mother with long dark hair in a tan robe and green head covering, sits on the sand crying with her head in her hands, while her young son Ishmael in a light brown tunic rests in the shade of a small desert bush nearby.",
+      "text": [
+        "Hagar helped Ishmael rest in the shade of a little bush.",
+        "Then she sat down a short way off and began to cry.",
+        "She felt all alone and very afraid."
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "A warm bright light shines down from the sky onto Hagar, the kind young mother with long dark hair in a tan robe and green head covering, who looks up in wonder and hope. Her young son Ishmael in a light brown tunic is nearby. Gentle glowing desert scene.",
+      "text": [
+        "But God heard Ishmael crying, and God saw Hagar.",
+        "An angel of God called to her, “Do not be afraid! God has heard you.”",
+        "God had not forgotten them at all."
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "Hagar, the kind young mother with long dark hair in a tan robe and green head covering, joyfully fills her water skin at a well of fresh water while her young son Ishmael in a light brown tunic drinks happily. Green grass and palm trees around the well, bright happy sky.",
+      "text": [
+        "Then God opened Hagar's eyes, and she saw a well of water!",
+        "She filled the water skin and gave Ishmael a big drink.",
+        "God stayed with Ishmael as he grew up. And God is always with me."
+      ]
+    }
+  ]
+}
