@@ -1,0 +1,66 @@
+{
+  "id": "david-praises-god",
+  "month": 11,
+  "weekOfMonth": 5,
+  "title": "David Praises God",
+  "reference": "2 Samuel 6:12-15; 1 Chronicles 15-16",
+  "keyQuestion": "Who can celebrate God?",
+  "bigIdea": "I can celebrate God.",
+  "memoryVerse": {
+    "text": "Shout aloud and sing for joy.",
+    "reference": "Isaiah 12:6 (NIV)"
+  },
+  "moral": {
+    "lesson": "King David celebrated God with all his might as the ark of the covenant came home. He danced, people played trumpets, and David told musicians to thank God every day because God is good and always loves us.",
+    "application": "You can celebrate God all the time — with dancing, singing, and saying thank you. Who can celebrate God? I can celebrate God!"
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "character": "King David: joyful adult man with short curly dark hair and a short dark beard, wearing a simple royal blue tunic with a gold sash (not oversized crown clutter — small gold circlet). Energetic and kind.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "A joyful parade brings a special golden box (ark) on poles along a sunny road; people smile and cheer. King David walks ahead looking excited.",
+      "text": [
+        "King David threw a big celebration!",
+        "He was bringing home a special golden box called the ark of the covenant.",
+        "It helped God's people remember that God was with them."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "People shout and play friendly cartoon trumpets and drums in a parade; bright banners, happy faces. No text on banners.",
+      "text": [
+        "God had done so much for His people.",
+        "Some people shouted to celebrate God.",
+        "Others played trumpets!"
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "King David dances with all his might before the Lord — leaping joyfully with arms out, big smile, blue tunic and gold sash. Friendly celebration, not silly or mocking.",
+      "text": [
+        "King David danced before the Lord with all his might!",
+        "Some people thought a king should not dance like that.",
+        "But David knew he should celebrate God no matter what."
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "David talks with smiling musicians holding harps and trumpets near the palace; warm inviting scene.",
+      "text": [
+        "After the ark came home, David gave musicians a special job.",
+        "He wanted them to sing and play music to celebrate God every day!",
+        "David said, \"Give thanks to God because He is good.\""
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "David and a crowd of families celebrate together — dancing, singing, thanking God under a bright sky. Joyful finale.",
+      "text": [
+        "God is good, and God will always love you.",
+        "We can celebrate God in the morning and at night — all the time!",
+        "Who can celebrate God? I can celebrate God!"
+      ]
+    }
+  ]
+}

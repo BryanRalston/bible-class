@@ -1,0 +1,66 @@
+{
+  "id": "elijah-and-the-widow",
+  "month": 10,
+  "weekOfMonth": 3,
+  "title": "Elijah and the Widow",
+  "reference": "1 Kings 17:1-16",
+  "keyQuestion": "Who's got it?",
+  "bigIdea": "God's got it!",
+  "memoryVerse": {
+    "text": "Trust in the LORD with all your heart.",
+    "reference": "Proverbs 3:5 (NIrV)"
+  },
+  "moral": {
+    "lesson": "When there was no rain, God took care of Elijah with water and food from birds. Then God took care of a widow and her son — their flour and oil never ran out.",
+    "application": "When you worry about what you need, remember God takes care of you. You can trust God no matter what — because God's got it!"
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "character": "Elijah: kind older man with longer grey-streaked dark hair and a full grey-brown beard, wearing a simple brown cloak over a cream tunic. Widow: kind young mother with dark hair in a green headscarf and tan dress. Young son with short dark hair in a light tunic.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "Elijah, an older man with grey-streaked hair and a full beard in a brown cloak, sits by a sparkling stream in a dry landscape, looking peaceful.",
+      "text": [
+        "Elijah was a prophet — he listened to God and told people what God said.",
+        "God told him there would be no rain for a long time.",
+        "Then God told Elijah to live by a stream so he would have water."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "Friendly cartoon ravens fly down bringing bread to Elijah by the stream. Elijah smiles and holds out his hands. Soft warm colors, not scary birds.",
+      "text": [
+        "God made sure Elijah had food, too — in a really cool way!",
+        "God sent birds to bring Elijah bread and meat every morning and evening.",
+        "God took care of Elijah!"
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "Elijah talks kindly with a sad young widow in a green headscarf and tan dress; her young son stands nearby looking tired. Small house and dry dusty town.",
+      "text": [
+        "When the stream dried up, God sent Elijah to a town.",
+        "A widow there had only a little flour and oil left for her and her son.",
+        "She was very sad — after that bread, their food would be gone."
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "The widow mixes flour and oil in a bowl while Elijah watches kindly; soft warm light. Same faces and clothes.",
+      "text": [
+        "Elijah said, \"Don't be afraid. Make a little bread for me, then for you and your son.\"",
+        "God promised their flour and oil would not run out.",
+        "The woman trusted God and did what Elijah said."
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "Happy widow, son, and Elijah share fresh bread at a simple table; jars of flour and oil still look full. Warm joyful kitchen scene.",
+      "text": [
+        "Just like God said, the jar always had flour, and the jug always had oil!",
+        "God took care of Elijah, the widow, and her son.",
+        "We can trust God no matter what — because God's got it!"
+      ]
+    }
+  ]
+}

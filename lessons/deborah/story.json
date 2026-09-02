@@ -1,0 +1,66 @@
+{
+  "id": "deborah",
+  "month": 11,
+  "weekOfMonth": 2,
+  "title": "Deborah",
+  "reference": "Judges 4:1-10, 14; 5:1-31",
+  "keyQuestion": "Who can celebrate God?",
+  "bigIdea": "I can celebrate God.",
+  "memoryVerse": {
+    "text": "Shout aloud and sing for joy.",
+    "reference": "Isaiah 12:6 (NIV)"
+  },
+  "moral": {
+    "lesson": "Deborah listened to God and helped lead God's people. God kept His promise and helped them. Then Deborah and Barak sang a song to celebrate God!",
+    "application": "You can sing to celebrate God, just like Deborah. Who can celebrate God? I can celebrate God!"
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "character": "Deborah: wise kind woman with long dark hair, tan skin, wearing a teal robe and a soft cream head covering. Barak: adult man with short dark hair and beard in an olive-green tunic.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "Deborah sits under a large shady palm tree outdoors, looking wise and kind, talking gently to people who have come to see her.",
+      "text": [
+        "God's people were sad. A mean king had been hurting them.",
+        "Deborah was a leader who listened to God.",
+        "People came to her under a palm tree for help."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "Deborah speaks bravely to Barak; both look determined and hopeful. Sunny outdoor setting.",
+      "text": [
+        "God told Deborah what to do.",
+        "She told Barak that God would help them.",
+        "Barak said he would go if Deborah came with him."
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "Deborah and Barak lead a friendly group of God's people across sunny hills; they look brave and trusting, not violent or scary.",
+      "text": [
+        "So Deborah went with Barak.",
+        "They led God's people, trusting God every step.",
+        "God promised to help — and God always keeps His promises."
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "Happy celebration scene: Deborah and Barak and God's people cheer with joy under a bright sky. Soft victory mood, no fighting shown.",
+      "text": [
+        "God did exactly what He promised!",
+        "God helped His people.",
+        "They were so happy and thankful."
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "Deborah and Barak sing joyfully with mouths open in song, arms raised; other people clap and celebrate with them.",
+      "text": [
+        "Deborah and Barak sang a song to celebrate God!",
+        "We can sing to celebrate God, too.",
+        "Who can celebrate God? I can celebrate God!"
+      ]
+    }
+  ]
+}

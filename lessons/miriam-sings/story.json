@@ -1,0 +1,66 @@
+{
+  "id": "miriam-sings",
+  "month": 11,
+  "weekOfMonth": 3,
+  "title": "Miriam Celebrates",
+  "reference": "Exodus 15:1-21",
+  "keyQuestion": "Who can celebrate God?",
+  "bigIdea": "I can celebrate God.",
+  "memoryVerse": {
+    "text": "Shout aloud and sing for joy.",
+    "reference": "Isaiah 12:6 (NIV)"
+  },
+  "moral": {
+    "lesson": "After God saved His people at the sea, Moses and Miriam celebrated! Miriam played music and sang, \"Sing to the Lord!\" and all the people celebrated God together.",
+    "application": "You can celebrate God with others — with singing, music, and joy. Who can celebrate God? I can celebrate God!"
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "character": "Miriam: joyful woman with long dark curly hair, tan skin, bright coral-pink robe, holding a small tambourine. Moses: same as before — short dark-brown hair, short brown beard, tan robe.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "God's people stand safely on a sunny beach after crossing, looking relieved and amazed; blue sea behind them. Moses stands with his stick.",
+      "text": [
+        "God had just saved His people at the sea!",
+        "It looked like there was nowhere to go — but God made a way.",
+        "Now everyone was safe on the other side."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "Moses and the people begin to celebrate on the shore — smiling, arms raised, thankful faces.",
+      "text": [
+        "Moses and God's people celebrated what God had done.",
+        "They were so thankful God rescued them.",
+        "It was time to praise God!"
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "Miriam in a coral-pink robe joyfully plays a tambourine, dancing with a big smile on the sandy shore.",
+      "text": [
+        "Miriam, Moses' sister, celebrated too!",
+        "She played music and danced for God.",
+        "She wanted everyone to join in."
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "Miriam leads a line of smiling women and children with tambourines and ribbons in a happy parade along the shore. Moses smiles nearby.",
+      "text": [
+        "Miriam sang, \"Sing to the Lord!\"",
+        "All the people celebrated God together.",
+        "What a joyful parade of praise!"
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "Big group celebration: Miriam, Moses, and families singing and dancing under a bright sky by the sea. Warm joyful colors.",
+      "text": [
+        "They celebrated God with others.",
+        "We can celebrate God with our family and friends, too.",
+        "Who can celebrate God? I can celebrate God!"
+      ]
+    }
+  ]
+}

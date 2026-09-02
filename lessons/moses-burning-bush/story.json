@@ -1,0 +1,66 @@
+{
+  "id": "moses-burning-bush",
+  "month": 10,
+  "weekOfMonth": 1,
+  "title": "Moses and the Burning Bush",
+  "reference": "Exodus 3:1-4:17",
+  "keyQuestion": "Who's got it?",
+  "bigIdea": "God's got it!",
+  "memoryVerse": {
+    "text": "Trust in the LORD with all your heart.",
+    "reference": "Proverbs 3:5 (NIrV)"
+  },
+  "moral": {
+    "lesson": "God spoke to Moses from a burning bush and asked him to help rescue God's people. Moses felt scared and not important enough, but God promised, \"I will be with you,\" and showed Moses that God can do anything.",
+    "application": "When something feels too big for you, you can trust God. God's got it — and He is with you."
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "character": "Moses: kind middle-aged man with short dark-brown hair and a short brown beard, wearing a simple tan robe and carrying a wooden walking stick.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "Moses, a kind middle-aged man with short dark-brown hair and a short brown beard in a tan robe, watches sheep on a sunny rocky hillside with green bushes.",
+      "text": [
+        "A long time ago, God's people were in Egypt. A mean king made them work very hard.",
+        "God chose a man named Moses to help lead them to a new home.",
+        "But Moses was a shepherd — he usually took care of sheep!"
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "Moses in his tan robe stares in wonder at a green bush that is on fire with bright orange and yellow flames, yet the bush is not burning up. Warm desert hillside.",
+      "text": [
+        "One day Moses saw something amazing — a bush on fire that did not burn up!",
+        "There was no smoke. Moses had never seen anything like it.",
+        "He walked closer to look."
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "Moses kneels by the glowing burning bush, looking up with awe as warm light shines from the bush. Friendly, not scary.",
+      "text": [
+        "Then God spoke to Moses from the bush! God knew Moses by name.",
+        "God said He would use Moses to rescue His people.",
+        "Moses felt nervous. He said, \"I am not important enough.\""
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "Moses holds a wooden walking stick that has just turned into a friendly cartoon snake on the ground; Moses looks surprised but safe. Same tan robe and brown beard.",
+      "text": [
+        "God asked, \"What do you have in your hand?\" It was a walking stick.",
+        "When Moses threw it down, it became a snake — then back into a stick again!",
+        "God showed Moses that God can do anything."
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "Moses stands bravely with his walking stick, smiling with trust, warm sunlight around him on the hillside. Same face, hair, beard, and tan robe.",
+      "text": [
+        "God said, \"I will be with you.\"",
+        "Moses was still a little afraid, but he trusted God.",
+        "We can trust God too — because God's got it!"
+      ]
+    }
+  ]
+}

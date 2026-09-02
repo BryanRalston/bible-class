@@ -1,0 +1,66 @@
+{
+  "id": "feast-of-booths",
+  "month": 11,
+  "weekOfMonth": 4,
+  "title": "The Feast of Booths",
+  "reference": "Deuteronomy 16:13-17; Leviticus 23:33-43",
+  "keyQuestion": "Who can celebrate God?",
+  "bigIdea": "I can celebrate God.",
+  "memoryVerse": {
+    "text": "Shout aloud and sing for joy.",
+    "reference": "Isaiah 12:6 (NIV)"
+  },
+  "moral": {
+    "lesson": "God took care of His people for forty years in the desert — food, water, even their shoes! Later God asked them to celebrate for seven days in booths (tents) so they would remember that God always takes care of them.",
+    "application": "God still gives us what we need. You can celebrate God for everything! Who can celebrate God? I can celebrate God!"
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "character": "A friendly ancient Israelite family: father with short dark beard in a brown tunic, mother with dark hair in a blue headscarf and cream dress, boy and girl children in simple colorful tunics.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "Israelite family walks through a sunny desert carrying packs; a soft cloud pillar is far ahead. They look provided-for and peaceful.",
+      "text": [
+        "After God rescued His people from Egypt, they lived in the desert for forty years.",
+        "God gave them everything they needed.",
+        "Food to eat, water to drink, and He showed them where to go."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "Family sits outside a simple leafy booth/tent home in the desert, sharing bread and water, smiling. Friendly camp scene.",
+      "text": [
+        "They lived in booths — like tents — not houses.",
+        "God even made sure their shoes did not wear out!",
+        "God loved His people and took care of them."
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "Same family works happily in a green garden with vegetables growing under sunshine and gentle rain clouds. Warm grateful mood.",
+      "text": [
+        "One day God led them to a new place with gardens and food.",
+        "But God still took care of them — He made the sun shine and the rain fall.",
+        "God made the food grow!"
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "Many families gather for a joyful outdoor feast beside leafy booths decorated with branches and fruit. Seven-day celebration mood.",
+      "text": [
+        "God said, \"Celebrate what I did for seven days.\"",
+        "Everyone came together — sons, daughters, everyone!",
+        "They lived in booths and remembered how God cared for them."
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "Family raises hands in thanks at a feast table under stars and lanterns; booths and palm branches around them. Joyful celebration.",
+      "text": [
+        "They ate together and talked about how God always gave them what they needed.",
+        "God still takes care of us every day.",
+        "Who can celebrate God? I can celebrate God!"
+      ]
+    }
+  ]
+}

@@ -26,6 +26,15 @@ matching **PDF** is generated for printing or projecting. Files are named
 | Sep W2 | [Hagar and Ishmael](lessons/hagar-and-ishmael/) | Genesis 21:14–20 | [PDF](lessons/hagar-and-ishmael/09-W2_hagar-and-ishmael.pdf) · [HTML](lessons/hagar-and-ishmael/09-W2_hagar-and-ishmael.html) |
 | Sep W3 | [The Story of Joseph](lessons/joseph/) | Genesis 37; 39–47 | [PDF](lessons/joseph/09-W3_joseph.pdf) · [HTML](lessons/joseph/09-W3_joseph.html) |
 | Sep W4 | [The Story of Jonah](lessons/jonah/) | Jonah 1:1–3:3 | [PDF](lessons/jonah/09-W4_jonah.pdf) · [HTML](lessons/jonah/09-W4_jonah.html) |
+| Oct W1 | [Moses and the Burning Bush](lessons/moses-burning-bush/) | Exodus 3:1–4:17 | [PDF](lessons/moses-burning-bush/10-W1_moses-burning-bush.pdf) · [HTML](lessons/moses-burning-bush/10-W1_moses-burning-bush.html) |
+| Oct W2 | [Moses and the Sea](lessons/moses-and-the-sea/) | Exodus 13:17–14:31 | [PDF](lessons/moses-and-the-sea/10-W2_moses-and-the-sea.pdf) · [HTML](lessons/moses-and-the-sea/10-W2_moses-and-the-sea.html) |
+| Oct W3 | [Elijah and the Widow](lessons/elijah-and-the-widow/) | 1 Kings 17:1–16 | [PDF](lessons/elijah-and-the-widow/10-W3_elijah-and-the-widow.pdf) · [HTML](lessons/elijah-and-the-widow/10-W3_elijah-and-the-widow.html) |
+| Oct W4 | [King Hezekiah Prays to God](lessons/hezekiah-prays/) | Isaiah 37:14–21; 38:1–6; 2 Kings 20:1–5 | [PDF](lessons/hezekiah-prays/10-W4_hezekiah-prays.pdf) · [HTML](lessons/hezekiah-prays/10-W4_hezekiah-prays.html) |
+| Nov W1 | [Celebrate What God Made](lessons/celebrate-creation/) | Psalm 33; Psalm 100 | [PDF](lessons/celebrate-creation/11-W1_celebrate-creation.pdf) · [HTML](lessons/celebrate-creation/11-W1_celebrate-creation.html) |
+| Nov W2 | [Deborah](lessons/deborah/) | Judges 4:1–10, 14; 5:1–31 | [PDF](lessons/deborah/11-W2_deborah.pdf) · [HTML](lessons/deborah/11-W2_deborah.html) |
+| Nov W3 | [Miriam Celebrates](lessons/miriam-sings/) | Exodus 15:1–21 | [PDF](lessons/miriam-sings/11-W3_miriam-sings.pdf) · [HTML](lessons/miriam-sings/11-W3_miriam-sings.html) |
+| Nov W4 | [The Feast of Booths](lessons/feast-of-booths/) | Deuteronomy 16:13–17; Leviticus 23:33–43 | [PDF](lessons/feast-of-booths/11-W4_feast-of-booths.pdf) · [HTML](lessons/feast-of-booths/11-W4_feast-of-booths.html) |
+| Nov W5 | [David Praises God](lessons/david-praises-god/) | 2 Samuel 6:12–15; 1 Chronicles 15–16 | [PDF](lessons/david-praises-god/11-W5_david-praises-god.pdf) · [HTML](lessons/david-praises-god/11-W5_david-praises-god.html) |
 
 _Open the PDF to print or present. Open the HTML in any browser to view or to
 **File → Print → Save as PDF** after edits._

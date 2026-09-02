@@ -1,0 +1,66 @@
+{
+  "id": "moses-and-the-sea",
+  "month": 10,
+  "weekOfMonth": 2,
+  "title": "Moses and the Sea",
+  "reference": "Exodus 13:17-14:31",
+  "keyQuestion": "Who's got it?",
+  "bigIdea": "God's got it!",
+  "memoryVerse": {
+    "text": "Trust in the LORD with all your heart.",
+    "reference": "Proverbs 3:5 (NIrV)"
+  },
+  "moral": {
+    "lesson": "God showed His people the way with a pillar of cloud and fire. When they were trapped at the sea, God told Moses to hold up his stick, and God parted the water so they could walk through on dry ground.",
+    "application": "When you don't know which way to go, you can trust God to show you. God's got it!"
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "character": "Moses: kind middle-aged man with short dark-brown hair and a short brown beard, wearing a simple tan robe and carrying a wooden walking stick (same Moses as burning bush).",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "Moses in tan robe leads a group of happy families (men, women, children in simple ancient clothes) walking through a sunny desert, following a tall soft white pillar of cloud in the sky.",
+      "text": [
+        "God's people, the Israelites, were leaving Egypt for a new home.",
+        "God sent Moses to lead them, and God showed them the way!",
+        "In the daytime, a tall pillar of cloud showed them where to go."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "At night, the same group camps near the desert as a tall glowing orange pillar of fire lights the dark sky. Moses stands with his stick looking peaceful.",
+      "text": [
+        "At night, God gave them a pillar of fire to light the way.",
+        "Wherever God wanted His people to go, He showed them.",
+        "God was taking care of them every step."
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "God's people look worried beside a big blue sea; in the distance dusty chariots of Pharaoh's army approach. Moses in tan robe stands calm, telling them not to fear.",
+      "text": [
+        "One night they camped next to a big sea.",
+        "Then they saw Pharaoh's army coming! They were so scared.",
+        "But Moses told them not to worry — God would save them!"
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "Moses holds his wooden stick high over the sea as a strong wind parts the blue water into two tall walls with a dry path down the middle. Friendly kids cartoon style, not scary.",
+      "text": [
+        "God told Moses to hold up his walking stick over the water.",
+        "A strong wind blew, and God pushed the water back!",
+        "God made a dry path right through the middle of the sea."
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "Happy Israelites walk safely through the parted sea on dry ground between walls of water, Moses leading with his stick, everyone smiling with joy and relief.",
+      "text": [
+        "God's people walked through the sea on dry ground!",
+        "God is so powerful, and He loves us so much.",
+        "We can always trust God to show us the way — because God's got it!"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "hezekiah-prays",
+  "month": 10,
+  "weekOfMonth": 4,
+  "title": "King Hezekiah Prays to God",
+  "reference": "Isaiah 37:14-21; 38:1-6; 2 Kings 20:1-5",
+  "keyQuestion": "Who's got it?",
+  "bigIdea": "God's got it!",
+  "memoryVerse": {
+    "text": "Trust in the LORD with all your heart.",
+    "reference": "Proverbs 3:5 (NIrV)"
+  },
+  "moral": {
+    "lesson": "King Hezekiah loved God and talked to God about everything — when an army came, and when he was sick. God heard his prayers, saved the city, and made him well.",
+    "application": "You can talk to God about anything — when you are happy, sad, sick, or scared. God hears you, because God's got it!"
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "character": "King Hezekiah: kind adult king with short dark hair, short dark beard, golden crown, and a purple and gold royal robe. Isaiah: older prophet with grey hair and beard in a simple blue robe.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "King Hezekiah in a purple and gold robe and golden crown smiles kindly in a sunny palace courtyard, looking peaceful and trusting.",
+      "text": [
+        "King Hezekiah loved God. He did what God wanted because he trusted God.",
+        "And God was with King Hezekiah.",
+        "One day trouble came — an army wanted to fight God's people."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "King Hezekiah kneels in prayer with hands together in a palace room, eyes closed, trusting. Soft warm light from a window.",
+      "text": [
+        "King Hezekiah trusted God. He prayed!",
+        "He said, \"God, You are the one true God. You made everything. Please save us!\"",
+        "He talked to God about the problem."
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "Isaiah the prophet in a blue robe brings a hopeful message to King Hezekiah; both look relieved and joyful in the palace.",
+      "text": [
+        "God sent Isaiah the prophet with a message.",
+        "\"God has heard your prayer. This army will not enter your city. God will save you!\"",
+        "Hooray — God's got it!"
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "King Hezekiah lies sick in bed looking sad, still praying with hands folded. Soft gentle lighting, not scary.",
+      "text": [
+        "Later, King Hezekiah became very sick and very sad.",
+        "So he prayed again. He trusted God with his whole heart.",
+        "God saw his tears and heard his prayer."
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "Healthy happy King Hezekiah jumps up smiling, celebrating with Isaiah nearby; warm sunny palace, joyful mood.",
+      "text": [
+        "Isaiah said, \"God is going to make you all better!\"",
+        "And King Hezekiah got better! He praised God with singing.",
+        "We can talk to God about anything — because God's got it!"
+      ]
+    }
+  ]
+}

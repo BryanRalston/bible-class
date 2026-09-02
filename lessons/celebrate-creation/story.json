@@ -1,0 +1,66 @@
+{
+  "id": "celebrate-creation",
+  "month": 11,
+  "weekOfMonth": 1,
+  "title": "Celebrate What God Made",
+  "reference": "Psalm 33; Psalm 100",
+  "keyQuestion": "Who can celebrate God?",
+  "bigIdea": "I can celebrate God.",
+  "memoryVerse": {
+    "text": "Shout aloud and sing for joy.",
+    "reference": "Isaiah 12:6 (NIV)"
+  },
+  "moral": {
+    "lesson": "God made the whole world — the sky, oceans, animals, plants, stars, and you! The Bible says we can shout and sing for joy because of all the wonderful things God has done.",
+    "application": "Look around at what God made and celebrate Him. You can celebrate God for what He made!"
+  },
+  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "character": "Diverse joyful preschool-age children celebrating outdoors: a girl with dark curly hair in a yellow dress, a boy with light brown hair in a blue shirt, and a girl with straight black hair in a green dress.",
+  "beats": [
+    {
+      "n": 1,
+      "scene": "Three joyful kids stand on a green hill under a bright blue sky with fluffy clouds and a shining sun, arms raised in celebration. Flat-color cartoon.",
+      "text": [
+        "God has done wonderful things!",
+        "God spoke and made the world. He made the sky above us.",
+        "Everywhere we look, we can see what God made."
+      ]
+    },
+    {
+      "n": 2,
+      "scene": "Friendly cartoon ocean with whales and colorful fish; kids on a sandy shore pointing happily at the water. Soft warm colors.",
+      "text": [
+        "God made the oceans full of fish and whales.",
+        "God made the land with mountains and trees.",
+        "God made so many amazing animals!"
+      ]
+    },
+    {
+      "n": 3,
+      "scene": "A cheerful parade of friendly land animals (lion, elephant, bunny, bird) in a sunny meadow; kids smile nearby. Gentle, not scary.",
+      "text": [
+        "God made birds that fly and animals that live on land.",
+        "God made the stars, the rain, and the plants.",
+        "And God made you, too!"
+      ]
+    },
+    {
+      "n": 4,
+      "scene": "Kids singing and clapping under a starry evening sky with a big friendly moon. Warm celebratory mood.",
+      "text": [
+        "The Bible says, \"Shout aloud and sing for joy!\"",
+        "We can celebrate God for what He made.",
+        "God watches over each of us."
+      ]
+    },
+    {
+      "n": 5,
+      "scene": "Kids holding hands in a circle dancing joyfully in a sunny park with flowers and trees. Big happy smiles.",
+      "text": [
+        "God made the whole world around us.",
+        "There are so many blessings to celebrate!",
+        "Who can celebrate God? I can celebrate God!"
+      ]
+    }
+  ]
+}
