@@ -3,72 +3,72 @@
   "month": 0,
   "weekOfMonth": 0,
   "title": "Our Church Family Story",
-  "reference": "Community Church — Ashburn, Virginia (1982–today)",
-  "keyQuestion": "Who grows God's family?",
-  "bigIdea": "God grows His family!",
+  "reference": "Community Church — Ashburn, Virginia",
+  "keyQuestion": "Who loves our church family?",
+  "bigIdea": "Jesus loves our church family!",
   "memoryVerse": {
-    "text": "Love each other as I have loved you.",
+    "text": "Love each other.",
     "reference": "John 15:12 (NIrV)"
   },
   "moral": {
-    "lesson": "Community Church began as a tiny group of friends who loved Jesus — meeting in a school and even a tent. God grew that seed into a big church family in Ashburn with CKids, Fire Escape, Virginia Academy, food outreach, Connect Groups, and love for neighbors near and far. Pastors and people serve together so everyone can know Jesus.",
-    "application": "You are part of this story. When you love others, serve, invite friends, and follow Jesus, God grows His family!"
+    "lesson": "Our church started small — just a few friends who loved Jesus. Now our church family is big! We sing, we learn, we help people, and we love each other. Jesus loves our church family.",
+    "application": "You are part of our church family. Jesus loves you!"
   },
   "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
-  "character": "A diverse friendly church community. One page features a cartoon group of current pastors (lead pastors recognizable; full team shown warmly). All other pages focus on community, kids, students, school, and serving — not pastors.",
+  "character": "A diverse friendly church community. One page features a cartoon group of current pastors. All other pages focus on community, kids, school, and serving.",
   "beats": [
     {
       "n": 1,
       "scene": "A small group of smiling friends gathering in a simple school room with folding chairs, and a friendly outdoor tent church nearby in the same sunny scene. Focus on people together loving Jesus. No single leader as the focus.",
       "text": [
-        "In 1982, God planted a tiny seed in Northern Virginia.",
-        "A small group of friends who loved Jesus started a church family — first in a school, and even under a tent!",
-        "It was little… but Jesus was with them. God grows His family!"
+        "A long time ago, our church was very small.",
+        "Friends who loved Jesus met at a school… and even under a tent!",
+        "Jesus was with them. Jesus loves our church family!"
       ]
     },
     {
       "n": 2,
       "scene": "Bright colorful children's ministry room with diverse kids singing and learning about Jesus; nearby, middle and high school students gather joyfully at a youth hangout. CKids and Fire Escape energy. Caring helpers, not a pastor spotlight. No text on walls.",
       "text": [
-        "Today that family loves the next generation!",
-        "In Community Kids (CKids), little ones learn that Jesus loves them.",
-        "Fire Escape (FE) helps middle and high school students follow Jesus with their friends."
+        "Now kids come to CKids!",
+        "We sing. We play. We learn that Jesus loves us.",
+        "Big kids have fun with their friends at church too!"
       ]
     },
     {
       "n": 3,
       "scene": "Sunny Christian school campus: kids with backpacks, teachers welcoming students, classmates laughing and learning together. Virginia Academy vibe. No text on signs.",
       "text": [
-        "The church also grows kids through Virginia Academy — a school right on the campus.",
-        "Students learn with faith, kindness, and purpose.",
-        "God's family helps children grow strong in every part of life!"
+        "Our church has a school too — Virginia Academy!",
+        "Kids learn and make friends.",
+        "Jesus loves the kids at our school!"
       ]
     },
     {
       "n": 4,
       "scene": "Volunteers packing food boxes and grocery bags for families, handing meals to neighbors with big smiles, kids helping carry bags. Friendly outdoor market-table / meal-giveaway scene. No text.",
       "text": [
-        "Community Church loves our local neighbors too!",
-        "Volunteers pack food and share meals with families who need help.",
-        "When we feed people and care for them, we love them the way Jesus loves us."
+        "Our church helps people who need food.",
+        "We share bags of food with happy smiles.",
+        "Helping others is one way we love like Jesus!"
       ]
     },
     {
       "n": 5,
       "scene": "Split joyful scene: Connect Group friends talking and praying in a cozy living room; and church friends helping people in a warm global-missions style community (friendly, hopeful, not scary). Celebration of friendship near and far. No text.",
       "text": [
-        "Friends grow closer in Connect Groups — small groups where people pray and share life.",
-        "And God's family loves the whole world — helping partners in places far away.",
-        "From a tiny seed to a big loving church: God grows His family!"
+        "Friends meet in little groups to pray and talk.",
+        "And our church helps people near and far away.",
+        "Jesus loves our church family — here and everywhere!"
       ]
     },
     {
       "n": 6,
       "scene": "Friendly cartoon group portrait of the current pastoral team standing together side by side, smiling warmly in casual Sunday clothes, soft studio or lobby background. Lead pastors recognizable from reference; a diverse team of pastors around them. Welcoming, humble, kind — not celebrity. Flat kids cartoon style. No text.",
       "text": [
-        "Our pastors love Jesus and love people.",
-        "They help our church family grow — teaching, caring, and cheering us on.",
-        "Together with everyone who serves, we love people the same way God loves us. You belong here!"
+        "Our pastors love Jesus.",
+        "They love people. They help our church family.",
+        "You belong here. Jesus loves you!"
       ]
     }
   ]
