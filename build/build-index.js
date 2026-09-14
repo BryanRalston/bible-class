@@ -29,8 +29,8 @@ function main() {
         title: s.title,
         reference: s.reference,
         bigIdea: s.bigIdea || '',
-        week: dated ? `${MONTHS[s.month].slice(0, 3)} · Week ${s.weekOfMonth}` : '',
-        sortKey: (s.month || 99) * 100 + (s.weekOfMonth || 99),
+        week: dated ? `${MONTHS[s.month].slice(0, 3)} · Week ${s.weekOfMonth}` : 'Special',
+        sortKey: dated ? s.month * 100 + s.weekOfMonth : 0,
         html: `lessons/${d.name}/${prefix}.html`,
         pdf: `lessons/${d.name}/${prefix}.pdf`,
       };

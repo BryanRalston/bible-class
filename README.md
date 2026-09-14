@@ -35,6 +35,7 @@ matching **PDF** is generated for printing or projecting. Files are named
 | Nov W3 | [Miriam Celebrates](lessons/miriam-sings/) | Exodus 15:1–21 | [PDF](lessons/miriam-sings/11-W3_miriam-sings.pdf) · [HTML](lessons/miriam-sings/11-W3_miriam-sings.html) |
 | Nov W4 | [The Feast of Booths](lessons/feast-of-booths/) | Deuteronomy 16:13–17; Leviticus 23:33–43 | [PDF](lessons/feast-of-booths/11-W4_feast-of-booths.pdf) · [HTML](lessons/feast-of-booths/11-W4_feast-of-booths.html) |
 | Nov W5 | [David Praises God](lessons/david-praises-god/) | 2 Samuel 6:12–15; 1 Chronicles 15–16 | [PDF](lessons/david-praises-god/11-W5_david-praises-god.pdf) · [HTML](lessons/david-praises-god/11-W5_david-praises-god.html) |
+| Special | [Our Church Family Story](lessons/community-church-story/) | Community Church � Ashburn, VA | [PDF](lessons/community-church-story/community-church-story.pdf) � [HTML](lessons/community-church-story/community-church-story.html) |
 
 _Open the PDF to print or present. Open the HTML in any browser to view or to
 **File → Print → Save as PDF** after edits._
