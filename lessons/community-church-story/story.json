@@ -15,11 +15,11 @@
     "application": "You are part of our church family. Jesus loves you!"
   },
   "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
-  "character": "A diverse friendly church community. One page features a cartoon group of current pastors. All other pages focus on community, kids, school, and serving.",
+  "character": "A diverse friendly church community of adults and children. Focus on kids, school, serving, and friendship — no pastors as the focus.",
   "beats": [
     {
       "n": 1,
-      "scene": "A small group of smiling friends gathering in a simple school room with folding chairs, and a friendly outdoor tent church nearby in the same sunny scene. Focus on people together loving Jesus. No single leader as the focus.",
+      "scene": "A small group of smiling friends gathering in a simple school room with folding chairs, and a friendly outdoor tent church nearby in the same sunny scene. Focus on people together loving Jesus. No banners, no flags, no text, no rainbows.",
       "text": [
         "A long time ago, our church was very small.",
         "Friends who loved Jesus met at a school… and even under a tent!",
@@ -28,7 +28,7 @@
     },
     {
       "n": 2,
-      "scene": "Bright colorful children's ministry room with diverse kids singing and learning about Jesus; nearby, middle and high school students gather joyfully at a youth hangout. CKids and Fire Escape energy. Caring helpers, not a pastor spotlight. No text on walls.",
+      "scene": "Bright colorful children's ministry room with diverse kids singing and learning about Jesus; nearby, older kids gather joyfully. Solid-color clothing only — no rainbow clothes. No floating crayons or flames. No text on walls.",
       "text": [
         "Now kids come to CKids!",
         "We sing. We play. We learn that Jesus loves us.",
@@ -55,20 +55,11 @@
     },
     {
       "n": 5,
-      "scene": "Split joyful scene: Connect Group friends talking and praying in a cozy living room; and church friends helping people in a warm global-missions style community (friendly, hopeful, not scary). Celebration of friendship near and far. No text.",
+      "scene": "Split joyful scene: friends talking and praying in a cozy living room; and church friends helping people in a warm hopeful community far away. Celebration of friendship near and far. No text.",
       "text": [
         "Friends meet in little groups to pray and talk.",
         "And our church helps people near and far away.",
         "Jesus loves our church family — here and everywhere!"
-      ]
-    },
-    {
-      "n": 6,
-      "scene": "Friendly cartoon group portrait of the current pastoral team standing together side by side, smiling warmly in casual Sunday clothes, soft studio or lobby background. Lead pastors recognizable from reference; a diverse team of pastors around them. Welcoming, humble, kind — not celebrity. Flat kids cartoon style. No text.",
-      "text": [
-        "Our pastors love Jesus.",
-        "They love people. They help our church family.",
-        "You belong here. Jesus loves you!"
       ]
     }
   ]
