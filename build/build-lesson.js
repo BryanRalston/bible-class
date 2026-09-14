@@ -97,7 +97,7 @@ function main() {
 
   /* Image slides: fill the page, image centered/cover */
   .image-page { background: #f4f1ea; padding: 0; }
-  .image-page img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .image-page img { width: 100%; height: 100%; object-fit: contain; display: block; }
 
   /* Narration slides */
   .text-page { background: #ffffff; }
