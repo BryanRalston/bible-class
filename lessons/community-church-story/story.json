@@ -14,12 +14,12 @@
     "lesson": "Our church started small — just a few friends who loved Jesus. Now our church family is celebrating 44 years — and it is still growing! We sing, we learn, we help people, and we love each other. Jesus loves our church family.",
     "application": "You are part of our church family. Jesus loves you!"
   },
-  "style": "Flat-color children's cartoon storybook illustration, simple rounded shapes, soft warm colors, thick clean black outlines, bright and friendly, gentle lighting, 16:9 landscape composition, no text or words in the image, no letters.",
+  "style": "Flat-color children's cartoon storybook illustration like a preschool picture book, simple rounded shapes, oversized friendly heads, thick clean black outlines, soft warm colors, gentle lighting, bright and cheerful, 16:9 landscape composition. Every shirt, dress, and pants is a single solid color. Blank walls and blank signs. No text, letters, numbers, or words. No flags. No rainbows. No rainbow clothing. No speech bubbles.",
   "character": "A diverse friendly church community of adults and children. Focus on kids, school, serving, and friendship — no pastors as the focus.",
   "beats": [
     {
       "n": 1,
-      "scene": "A small group of smiling friends gathering in a simple school room with folding chairs, and a friendly outdoor tent church nearby in the same sunny scene. Focus on people together loving Jesus. No banners, no flags, no text, no rainbows.",
+      "scene": "Split illustration, two halves of one wide picture. Left half: a small humble school classroom with gray folding chairs, a plain wooden cross on a brick wall, a small group of smiling families and kids gathered together. Right half: the same friends sitting under a simple blue-and-cream striped outdoor tent on a sunny grassy field. Warm and joyful. People together loving Jesus.",
       "text": [
         "A long time ago, our church was very small.",
         "Friends who loved Jesus met at a school… and even under a tent!",
@@ -28,7 +28,7 @@
     },
     {
       "n": 2,
-      "scene": "Bright colorful children's ministry room with diverse kids singing and learning about Jesus; nearby, older kids gather joyfully. Solid-color clothing only — no rainbow clothes. No floating crayons or flames. No text on walls.",
+      "scene": "A bright children's ministry classroom. Diverse kids sit on a simple rug singing and clapping. A teacher kneels beside a child in a wheelchair who holds a picture book. A man plays a guitar. A girl shakes a tambourine. A complete, perfectly straight wooden cross hangs level and centered on the yellow wall — not crooked, not broken. Arched windows. Happy CKids class.",
       "text": [
         "Now kids come to CKids!",
         "We sing. We play. We learn that Jesus loves us.",
@@ -37,7 +37,7 @@
     },
     {
       "n": 3,
-      "scene": "Sunny Christian school campus: kids with backpacks, teachers welcoming students, classmates laughing and learning together. Virginia Academy vibe. No text on signs.",
+      "scene": "Sunny Christian school campus. A red-brick schoolhouse with a small bell tower and blank white signboards. Diverse kids with backpacks walk a path; two kids high-five; a child in a wheelchair rolls toward the door; teachers wave from the open doorway. Flowers, trees, bright sun. Friendly Virginia Academy vibe.",
       "text": [
         "Our church has a school too — Virginia Academy!",
         "Kids learn and make friends.",
@@ -46,7 +46,7 @@
     },
     {
       "n": 4,
-      "scene": "Volunteers packing food boxes and grocery bags for families, handing meals to neighbors with big smiles, kids helping carry bags. Friendly outdoor market-table / meal-giveaway scene. No text.",
+      "scene": "Outdoor church food giveaway on a green lawn. Volunteers at tables pack cans, bread, and produce into brown grocery bags. Kids help carry bags. A family receives a box of fruit with big smiles. In the background stands a brick church like Community Church in Ashburn: reddish-brown brick, a white columned front porch with a triangular pediment, tall arched windows, a dark gray roof, and a tall white steeple. Blank walls — no banner, no writing. Generous and friendly.",
       "text": [
         "Our church helps people who need food.",
         "We share bags of food with happy smiles.",
@@ -55,7 +55,7 @@
     },
     {
       "n": 5,
-      "scene": "Split joyful scene: friends talking and praying in a cozy living room; and church friends helping people in a warm hopeful community far away. Celebration of friendship near and far. No text.",
+      "scene": "Split illustration, two halves of one wide picture. Left half: four children sit in a cozy living-room circle on a rug, holding hands and praying, a cat sleeping nearby, warm lamplight. Right half: church friends outdoors at sunset share food and clothes with neighbors near a small church, round paper lanterns in a tree. Celebration of friendship near and far.",
       "text": [
         "Friends meet in little groups to pray and talk.",
         "Our church is 44 years old — and it is still growing!",
